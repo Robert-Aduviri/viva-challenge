@@ -1,0 +1,903 @@
+19:01:47	 From  Sandro Vargas Montañez : buenas noches CUSCO
+19:01:51	 From  Ana Alvarez : buenas noches dedde Ica
+19:01:52	 From  Wenceslao Pillaca : Buenas noches a todos
+19:01:53	 From  maria elena baldeon viclhez : buenas noches SATIPO
+19:01:54	 From  MELBA ASCATE : LA LIBERTDA . TRUJILLO
+19:01:56	 From  SONIA HILARIO PARI : Buenas noches con todos saludos de Huancavelica.
+19:02:01	 From  María Esther Pareja Munguía : buenas noches de Lima
+19:02:04	 From  NANCY RIVERA : Buenas noches a todos, de nuevo aquí, se extrañaba estas reuniones, desde SJL, Lima
+19:02:04	 From  ANGELITA QUIROZ : Buenas noches saludos desde Trujillo 
+19:02:05	 From  Yenny Rodríguez Carbajal : Buenas noches colegas les saluda YENNY RODRÍGUEZ CARBAJAL les saludo desde Chupaca
+19:02:06	 From  Maria Rodriguez Goicochea : Buenas noches de  Cajamarca
+19:02:06	 From  CESAR BRAVO HINOSTROZA : BUENAS NOCHES, DESDE HUARI, REGIÓN ANCASH
+19:02:07	 From  MADELEYNE MESTANZA HUAMÁN : BUENAS NOCHES DE CAJAMARCA
+19:02:09	 From  Angela CHAMORRO : Buenas noches.
+19:02:15	 From  YOLANDA  DEL CARMEN DAVILA  TIRADO : DE AMAZONAS LAMUD CON MUCHO AMOR
+19:02:15	 From  Antonio Mendoza Ochoa : Buenas noches saludos desde Huancavelica
+19:02:17	 From  Elena Olaya Quijaite : Buenas noche de Lima distrito de San Luis.
+19:02:21	 From  Teresilda Garcia Molina : Buenas noches!!! de la I.E Jorge Chávez  Darnell- Callao
+19:02:24	 From  SONIA HILARIO PARI : de la Institución Educativa Ramon Castilla Marquesadoi - Huancavelica.
+19:02:24	 From  ROSANNA VILCA MARTINEZ : Buenas noches de Nasca
+19:02:29	 From  Elmer Valle : Buenas noches Callao 
+19:02:31	 From  Letty Mariñas Soto : Buenas noches Letty Mariñas soto desde Cajamarca
+19:02:31	 From  JUDITH INES DE LA CRUZ YATACO : Buenas noches a los presentes, desde Huacaybamba provincia de Huánuco.
+19:02:33	 From  JAVIER CACHAY ALVA : BUENAS NOCHES COLEGAS  JAEN CAJAMARCA  LA TIERRA DEL RICO CAFE
+19:02:37	 From  Nieves Nona Palomino Condori : Buenas noches
+19:02:37	 From  María Mendoza : DESDE SANTA CRUZ, CAJAMARCA
+19:02:40	 From  Dora Angélica Mendoza : De Yurimaguas- Loreto 
+19:02:40	 From  SONIA HERNÁNDEZ VELARDE : BUENAS NOCHES DESDE CAJAMARCA
+19:02:41	 From  Nieves Nona Palomino Condori : Ica
+19:02:41	 From  Rodolfo Barrena Jara : Buenas noches, desde Cajamarca. 
+19:02:43	 From  Francisco huanacuni : Buenas noches desde ilave -puno
+19:02:43	 From  Angel Huaripaucar Tueros : Buenas noches desde Ayacucho
+19:02:47	 From  Enelita del Carmen Sifuentes Aliaga : Buenas noches, Cajamarca
+19:02:47	 From  Milagros Alferez Meza : Buenas noches saludos desde Lima
+19:02:50	 From  JOHANNA PALACIOS YNCA : buenas noches atodos
+19:02:54	 From  Gricela INGA GUTIERREZ : BUENAS NOCHES CHUPACA-JUNIN
+19:02:54	 From  Juan Carlos Fernandez Rosas : Buenas noches … saludos desde Trujillo
+19:02:55	 From  Liliana : Desde Trujillo, buenas noches 
+19:02:58	 From  Yasmira Chacaliaza : Buenas noches  colegio Francisco Izquierdo Rios Callao
+19:03:00	 From  Esperanza VALDERRAMA : Buenas noches San Antonio Marianistas del Callao 
+19:03:00	 From  Angela CHAMORRO : Desde Lima - UGEL 05.
+19:03:01	 From  María Mendoza : IE "JUAN UGAZ"
+19:03:02	 From  Guissela Janett Cornelio Hinostroza : buenas Noches Huanuco Yauran 
+19:03:04	 From  YOLANDA  DEL CARMEN DAVILA  TIRADO : YOLANDA DAVILA  DESDE EL CALLAO
+19:03:06	 From  Enrique Arteaga Romero : celendin Celendin Cajamarca 
+19:03:06	 From  AMPARO TORRES CADILLO : Buenas noches desde  Ancash-Yungay
+19:03:09	 From  JOHANNA PALACIOS YNCA : desde nasca buenas noches
+19:03:10	 From  María Romero : Buenas noches saludos de Cajamarca IE 011
+19:03:10	 From  Graciela Flores : buenas noches Cetpro Virgen del Carmen
+19:03:13	 From  Susan Ruiz : Saludos desde Chiclayo IE 11011 Señor de los Milagros
+19:03:15	 From  Esther Patricia Mena Mendoza : Buenas noches de Lima
+19:03:18	 From  Yuly Oyanguren : Buenas noches. Un saludo especial desde la I.E. Gabriela Mistral. Lima
+19:03:19	 From  Edgar Castillo Huerta Edgar : Edgar Castillo Huerta 
+19:03:20	 From  María Cullas Caro : Muy buenas noches a todos
+19:03:21	 From  PILAR LEÓN VERGARA : Buenas noches colegas....desde Nasca - Ica
+19:03:22	 From  Enrique Arteaga Romero : Celendin Celendin Cajamarca Perú 
+19:03:28	 From  Esther Mizare Cabezas : Buenas noches
+19:03:30	 From  Marleny Aliaga Leiva : Buenas noches con todos colegas
+19:03:32	 From  Julia Obregón Huaytaya : Buenas noches IE Micaela Bastidas - Nasca
+19:03:33	 From  carlos vidal carhuapuma esquivel : BUENAS NOCJHES PARA TODOS, SALUDOS DE CHURCAMPA HVCA
+19:03:33	 From  Carmen Nilda Gomez Ramos : buenas noches 
+19:03:35	 From  María  Victoria Quijaite Martinez : Buenas noches
+19:03:36	 From  CYNTHIA AMELIA MESTANZA HUAMÁN : Buenas noches I.E.I N° 796 SAMADAY - NAMORA
+19:03:37	 From  Dyadira G. Castañeda Milla : buenas noches de Huánuco I.E.I N° 542 CUATRO SUYOS
+19:03:41	 From  Luis Alberto Coca Lazo : Desde la cálida tierra de Huarochirí - Lima Provincias. I.E SAN JUAN BAUTISTA
+19:03:42	 From  Elba Montalván : Buenas noches colegas IEE N° 20523 Corazón de Jesús -Supe- Barranca.
+19:03:44	 From  Ana Silvina Orduña Llontop : Buenas Noches Ana Orduña los Saluda Lima
+19:03:45	 From  ASTRID YOVELIN PARI MANTARI : Buenas noches I.E. Ramon Castilla Marquesado HUANCAVELICA
+19:03:47	 From  TELMA ERIKA QUISPE FLORES : Buenas noches Ilo 
+19:03:47	 From  Marleni Morales Contreras : Buenas noches 
+19:03:48	 From  Maribel Padilla Sanchez : Buena noche NUESTRA SEÑORA DE LAS MERCEDES Huancayo
+19:03:50	 From  Lucy Velarde : Buenas noches de la IEE Francisco Izquierdo Ríos - Bellavista-Callao 
+19:03:51	 From  Angela CHAMORRO : Lima- UGEL 05 - I. E. 110 San Marcos. 
+19:03:54	 From  Judith Ninahuanca : buenas noches, de Lima
+19:03:57	 From  IDA ROJAS OMONTE : BUENAS NOCHES MI NOMBRE ES IDA ROJAS OMONTE , CALLAO
+19:03:58	 From  GILBERTO CASTAÑEDA : Buenas noches, de San Marcos - Cajamarca
+19:03:59	 From  JOHANNA PALACIOS YNCA : buenas noches de nasca del coleio micaela bastidas
+19:03:59	 From  TERESA MARTHA CHUQUI MATOS : Buenas noches desde Chimbote IE 88025 cOISHCO
+19:04:02	 From  Celia Esther Rojas Saucedo : Buenas noches, les saluda Celia Esther Rojas Saucedo 
+19:04:05	 From  lilian belupu : BUENAS NOCHES ,DESDE CHIMBOTE ,TIERRRA DE LA PESCA Y EL ACERO. De la IE 88025 COISHCO
+19:04:06	 From  yobana gayoso urbina : BUENAS NOCHES LE SALUDO DESDE CHICLAYO IE N 016
+19:04:07	 From  Benigna Montes condori : Buenas noches de la  I.E Felipe Santiago Estenos -chaclacayo
+19:04:09	 From  NEYDA GOMERO : BUENAS NOCHES NEYDA GOMERO CARDENAS, UGEL ANTONIO RAIMONDI, ÀNCASH.
+19:04:09	 From  MARIA JARA PARIA : Buenas noches colegas.I.E. MICAELA BASTIDAS de NASCA
+19:04:11	 From  Luis Gerardo Vásquez Santisteban : Buenas noches colegas... Gerardo Vasquez..     Chiclayo 
+19:04:12	 From  HOROCIA MOZOMBITE VALDIVIEZO : Buenas noches I.E. 6022 Villa Maria del Triunfo Lima
+19:04:16	 From  Luz Marina Bravo Quintana : Buenas noches de la I. E 110 San Marcos 
+19:04:20	 From  Maria del Carmen Huertas : Buenas noches, un saludo cordial desde la Provincia de NASCA - región ICA
+19:04:24	 From  ELVIA AGRIPINA RAMIREZ BAUTISTA : BUENAS NOCHES DESDE 408 - CUTERVO - CAJAMARCA
+19:04:25	 From  Celia Esther Rojas Saucedo : I. E. I N°883 Rodacocha
+19:04:25	 From  Tulio Guevara : Buenas noches, desde San Miguel, Lima
+19:04:28	 From  CYNTHIA AMELIA MESTANZA HUAMÁN : Buenas noches desde Cajamarca
+19:04:31	 From  Silvia Getrudes ACUÑA SEGOVIA : Buenas noches colegas, IE. Inca Garcilaso de la Vega - Callao
+19:04:33	 From  Rosa Violeta Rojas Moreno : buenas noches soy de cajamaraca 
+19:04:34	 From  Yissela Alvarez : Buenas noches  ugel Puerto.Inca 
+19:04:35	 From  HUBERT GUERRERO : Buenas noches del Callao! I.E. Ramón Castilla Marquesado.
+19:04:36	 From  Gani Lucy Vásquez Huamán : buenas noches directora de I.E.P. Suzuki Cajamarca
+19:04:39	 From  Indira Flores : Buenas noches
+19:04:48	 From  CRISTINA VIZCARRA FIGUEROA : Buenas noches
+19:04:52	 From  Enith Victoria Coronel Pimentel : buenas noches soy Docente de Educación Inicial I.E.I 463 ugel marañon Huanuco 
+19:04:53	 From  IDA ROJAS OMONTE : BUENAS NOCHES DREC DEL CALLAO
+19:04:55	 From  Karina Esaine : buenas noches I.E.I 853 de Cajamarca
+19:04:56	 From  Gladys Rueda : buenas noches, desde IE Menotti Biffi Garibotto de Pucusana
+19:05:01	 From  karla lucena : Buenas noches desde Chiclayo
+19:05:06	 From  VILMA RIVERA : Buenas noches , de Huancavelica.
+19:05:07	 From  FLORA BACA : Buenas noches, desde el Callao
+19:05:08	 From  Jaime Huaman novoa : buenas noches. IE Huagal Cajamarca
+19:05:10	 From  Macedonia Quispe Mariño : Buenas noches colegas, Ugel 01 San Juan de Miraflores. IE. Menotti Biffi Garibotto  Pucusana para el Perú.
+19:05:16	 From  Patricia Edith Guillén Aparicio : Buenas noches 
+19:05:16	 From  Lourdes Mariños : Buenas noches desde Nuevo Chimbote - región An ah
+19:05:20	 From  ELDA VILCA PEDROSO : Buenas noches, desde Ancash.
+19:05:25	 From  PEDRO FIGUEROA : BUENAS NOCHES DESDE YUNGAY -ANCASH
+19:05:28	 From  Lucy Velarde : Buenas noches, mi nombre Lucy Velarde, de la   IEE FIR Bellavista- Callao
+19:05:28	 From  REINULFO MUÑOZ BARBOZA : Buenas noches, saludos desde Chota, Cajamarca.
+19:05:29	 From  Ana Luz Florez Luque : BUENAS NOCHES  desde Melgar Puno
+19:05:30	 From  CLAUDIA SANCHEZ QUEREVALU : Hola soy Claudia y me conecto desde Lima.
+19:05:31	 From  Raquel Delgado Chávarri : Buenas noches con todos los colegas ,doy la profesora Raquel Delgado Chávarri de la I.E 16662 Caserío Limón Pampa Pomahuaca -Jaen
+19:05:31	 From  Geraldine Flores : San Martin, El Dorado
+19:05:32	 From  ROSA HUAMAN ROJAS : buenas noches a todos los colegas
+19:05:32	 From  Bettzabé Hidalgo : Buenas noches colegas,presente la  I.E.I. N° 86329 María Jiray de yacya - UGEL HUARI -Ancash
+19:05:32	 From  GUILLERMINA RAMOS REYES : Buenas noches colegas desde el Callao
+19:05:33	 From  Maria victoria Carranza Valle : Buenas Noches ,les saludo desde Trujillo .Jardincito N2198 ElPorvenir Trujillo ,Ugel 01 
+19:05:34	 From  RUTH MARAVI : Buenas noches, soy de la I.E. "San José" - Ugel Chupaca-Junin
+19:05:37	 From  Fresia Franco : muy bu
+19:05:40	 From  JORGE RAMOS ESPINOZA : Buenas noches con todos
+19:05:41	 From  Evelyn Barr : Buenas noches colegas, saludos desde Trujillo La Libertad - I.E.PARROQUIAL "LA CARIDAD" - UGEL 01 EL PORVENIR
+19:05:41	 From  Juan Hualpa vicente : De nasca Prof Juan hualpa vicente
+19:05:44	 From  KELVIN ALVAREZ MATOS : Buenas noches, desde la ciudad del mejor clima del mundo, HUÁNUCO.
+19:05:44	 From  RICARDO FLORES TALAVERA : Buenas noches con todos
+19:05:46	 From  María Romero : Buenas noches mi nombre es María del Rosario Romero Chuquilin de la Institución Educativa N| 011 Cajamarca
+19:05:49	 From  JULIO GALVEZ MEZA : Buenas noches desde Huánuco, Lauricocha..
+19:05:50	 From  Carlo magno Zevallos Florián : ANTONIO RAIMIONDI . TRUJILLO
+19:05:51	 From  HERLINDA CHAVEZ ORTEGA : Buenas noches a todos. Herlinda Chavez , directora de IE 169-UGEL 05 LIMA
+19:05:51	 From  Elmer Pisco : Buenas noches, le saluda Elmer Luis Pisco Goicochea, Director de la I.E. Antonio Guillermo Urrelo de la ciudad de Cajamarca.
+19:05:52	 From  ANDRES MARTINEZ CHANCASANAMPA : Desde Moya-Huancavelica
+19:05:52	 From  Marisol Gómez Zapata : Buenas noches colegas, soy docente de la Región Callao
+19:05:53	 From  Cecilia Mejía Quiroz : Buenas noches, soy docente de la I.E. Coprodeli San Vicente.
+19:05:57	 From  Nícida Llanos Alejandría : Buenas noches, un saludo cordial  desde Lambayeque.
+19:05:59	 From  Fresia Franco : Muy buenas noches Fresia desde Arequipa.
+19:06:00	 From  Alicia Burgos : Buenas noches UGEL N° 01 EL PORVENIR LA LIBERTAD - TRUJILLO IEI N° 2029
+19:06:00	 From  Roberto Chávez   Ballena : BUENAS NOCHES  PROVINCIA CONSTITUCIONAL DEL CALLAO
+19:06:01	 From  Erika Bravo : Buenas noches, I.E. 43033 "Virgen del Rosario" Ilo Moquegua.
+19:06:02	 From  Rocio Tenorio : Buenas noches con todos. 
+19:06:05	 From  Teofilo Lucas De la cruz : Buenas noches. Saludos desde Huancavelica. IE Nro 36062 de PALLCCAPAMPA - Huancavelica 
+19:06:07	 From  Flor Vaásquez : Buenas noches saludos desde Cajamarca
+19:06:08	 From  NOLASCO ALVARO : BUENAS NOCHES CON TODOS, DESDE NASCA-ICA
+19:06:09	 From  paula patricia luksic gibaja : Buenas tardes  desde Cusco Patricia Luksic Gibaja Directora IEI 464
+19:06:09	 From  Andres Hernandez Medina : Buenas noches Vicente Hernandez  I.E. Abelardo Gamarra 5023
+19:06:10	 From  Mauro Washington Gastelú Luyo : Buenas noches.
+19:06:12	 From  lizeth Rosas Condor : buenas noches colegas, Pichanaqui Huntinini presente
+19:06:14	 From  Victoria Mejía : Buenas noches un saludo fraterno. Desde Huaraz Ancash 
+19:06:15	 From  JAVIER OSCAR CHUQUIN ALBINO : SALUDOS CORDIALES, DESDE CARAZ, HUAYLAS, ANCASH
+19:06:16	 From  Víctor SÁNCHEZ : buenas noches a todos saludos desde cajamarca 
+19:06:17	 From  Rosa Romero : BUENAS NOCHES COLEGAS. CALLAO
+19:06:18	 From  Maribel Malpartida : Saludos desde Lima. Colegio Santa Rosa.
+19:06:24	 From  Gisella Noemi Ascencio Yarmas : Buenas noches, presente I. E. Micaela Bastidas de Nasca _ Ica
+19:06:24	 From  María Angulo Anicama : Buenas noches, María Angulo Anicama de la I.E. Micaela Bastidas - Nasca
+19:06:25	 From  Elio Loli : Buenas noches. Saludos de Ancash Perú. 
+19:06:27	 From  Antero Eloy ARÉVALO LAMAS : La IE San Juan (Íllimo. Lambayeque) os saluda,  agradece y felicita. 
+19:06:28	 From  Monica Ramos Flores : Buenas noches, del Distrito de Ahuac, Provincia de Chupada, Región Junín. Prof. Monica Ramos Flores
+19:06:28	 From  nancy marlene morales luna : Buenas noches, colegio  San Vicente de Paúl. - Trujillo
+19:06:29	 From  MARIA CRUZ LUYO : Bs. noches. Cuna Jardín Los Conejitos. Callao Cercado
+19:06:31	 From  Nelly Mejía Alcedo : Buenas noches, desde Huánuco Nelly
+19:06:35	 From  Marisol Molina : Buenas noches, saludos desde el Callao.
+19:06:35	 From  YOEL VILLA BRICEÑO : buenas noches a todos colegas. COLEGIO RAMON CASTILLA MARQUESADO DE HUANCAVELICA
+19:06:36	 From  PATRICIA REVOLLEDO OSORIO : Buenas Noches Profesores saludos desde Barranca
+19:06:36	 From  ZOILA AYARZA RIVEROS : buenas noches Huancavelica presente
+19:06:38	 From  elizabeth guerreros : Desde Bajo Kimiriki Ugel Pichanaqui - Junin. Muy buenas noches.
+19:06:38	 From  Indira Flores : Buenas noches
+19:06:38	 From  María Elizabeth Ruiz Sarmiento Vda. de García : Buenas noches. I.E. Enrique Delhorme saludos desde Callao
+19:06:39	 From  HADY RAMOS SALVADOR : Buenas noches, saludos desde Huánuco.
+19:06:40	 From  Yuly Oyanguren : Este curso te desestresará colega
+19:06:40	 From  CLAUDIA SANCHEZ QUEREVALU : Los invito a visitar mi canal de youtubehttps://www.youtube.com/channel/UCC_vO9fLha-IohR16IafwTg
+19:06:41	 From  Hérmes Marcos Ríos Angeles : Buenas noches desde Amazonas Hérmes Ríos A
+19:06:47	 From  Leandro Agustín Castillo Cabrera : Saludos desde Yonán-Tembladera
+19:06:50	 From  Magna Arroyo Vergara : Buenas noches 
+19:06:52	 From  Marisol Molina : Por favor silencien sus micrófonos. 
+19:06:52	 From  BETTY SERRANO VEGA : Silencien sus micrófonos 
+19:06:52	 From  Mercedes Vera Tudela de Oruna : Buenas noches, soy docente de la I.E. 6097 Mateo Pumacahua. Mil disculpas no tengo camara pero si escucho.
+19:06:54	 From  José Manuel DIAZ PINEDO : buenas noches, dese Lima I.E. 169 SJL
+19:06:55	 From  Zoila Tuesta : Buenas noches
+19:06:56	 From  Carlo magno Zevallos Florián : NUESTRA SEÑORA DE LAS MERCEDES - TRUJILLO
+19:06:59	 From  Milagros Alferez Meza : Por favor apaguen sus micrófonos
+19:07:02	 From  DALILA CARLOS BELITO : Buenas noches,colegas, saludos de  Huancayo.
+19:07:10	 From  Haydee Mendez  to  Maricarmen Portocarrero Lopez(Privately) : silencie a todos 
+19:07:12	 From  Marisol Molina : Estamos escuchando conversaciones personales. Apaguen sus micrófonos. 
+19:07:12	 From  Erik Martínez añanca : saludos desde el rico Vraem purita selva
+19:07:12	 From  BEATRIZ RODRIGUEZ : Buenas noches,I.E 30161 «VIRGEN DEL ROSARIO» -Chupaca- Región Junín
+19:07:13	 From  Mónica Huamaní : Buenas noches a todos
+19:07:13	 From  ARMINDA CERNA RODRIGUEZ : BUENAS NOCHES CON TODOS
+19:07:16	 From  Yovana Zavaleta Loloy : Buenas noches a todos
+19:07:20	 From  Nícida Llanos Alejandría : NÍCIDA LLANOS ALEJNADRIA, de Lambayeque
+19:07:22	 From  CECILIA DEL PILAR CABRERA POSADAS : Buenas noches, Cecilia Cabrera Posadas de la ciudad de Cajamarca
+19:07:24	 From  JESUS GUEVARA CUMPA : Buenas Noches Profesora Esmeralda Guevara Cumpa Colegio 80253 Jorge Angulo Argomedo - La Cuesta -  Otuzco - Trujillo - La Libertad.
+19:07:24	 From  yvonne chahu : buenas noches desde el Callao institucion Educativa 5032
+19:07:24	 From  Maribel Carhuajulca Valencia : Buenas noches maestros desde Lambayeque...IE N°10163 JORGE BASADRE.
+19:07:24	 From  Mary Bayona Coral : Buenas noches 
+19:07:25	 From  Esther Patricia Mena Mendoza : Colegas silenciar su micrófono por favor
+19:07:25	 From  Consuelito Lazaro Fernandez : Buenas noches 
+19:07:31	 From  Elizabet Norma Flores Licito : buenas noches colegas saludos de Ancash 
+19:07:31	 From  Galaxy J2 Core : Buenas noches, Eliseo Alvarado, UGEL Asunción
+19:07:41	 From  JACQUELINE VEGA HUANCA : Buenas noches, le saluda Jacqueline de Lima
+19:07:43	 From  Flor Paez Florecin : Buenas noches!! I.E Abelardo Gamarra
+19:07:43	 From  Alejandrina Villa Riveros : Buenas noches colegas, saludos desde Huancavelica.
+19:07:44	 From  Carmen Castañeda : IE 5030 TNte. Crnel. Leopoldo Pérez Salmón desde Carmen de la Legua, Callao.
+19:07:51	 From  ROMER SARMIENTO CHAUPIS : DRE HUÁNUCO PRESENTE, ROMER SARMIENTO CHAUPIS.
+19:07:53	 From  Maritza  Alejandrina Miraval Gonzales : Buenas noches, IEI 092 presente -UGEL Leoncio Prado-Huanuco 
+19:07:57	 From  Santiago Ortiz Meléndez : buenas noches soy de la I.E Francisco Izquierdo Ríos  Bellavista Callao Lima
+19:07:57	 From  Bertha Altamirano Pacheco : Buenas noches, Bertha Altamirano de la I. E San Marcos 110. UGEL 05-SJL. 
+19:08:00	 From  Esther Patricia Mena Mendoza : Muchas gracias
+19:08:00	 From  Magaly Guerra Pimentel : muchas gracias
+19:08:01	 From  ROSA BEATRIZ CHIMOY ESQUIVES : MUCHAS GRACIAS
+19:08:02	 From  Mauro Washington Gastelú Luyo : Muchas gracias.
+19:08:03	 From  KARIN AGUILAR : QUE BELLO DETALLE, MUCHAS GRACIAS
+19:08:03	 From  Evelyn Barr : MUCHAS GRACIAS!!!
+19:08:04	 From  Letty Mariñas Soto : Gracias
+19:08:05	 From  DELFIN TAMARIZ BRONCANO : BUENAS NOCHES DE YUNGAY ANCAS IE N°  86786 
+19:08:05	 From  Yuly Oyanguren : Qué lindo!! Gracias por el mensaje!
+19:08:05	 From  Enrique Vaca : feliz día!!!
+19:08:05	 From  Indira Flores : gracias
+19:08:08	 From  Maritza  Alejandrina Miraval Gonzales : no tengo audio 
+19:08:10	 From  HADY RAMOS SALVADOR : Gracias!
+19:08:11	 From  María Mendoza : GRACIAS
+19:08:11	 From  ana Inocente Huaman : Gracias muy bonito
+19:08:13	 From  Angela Retes : gracias!!!
+19:08:13	 From  Maribel Malpartida : Gracias
+19:08:14	 From  Sandro Vargas Montañez : Gracias por el detalle
+19:08:14	 From  MARIA CRUZ LUYO : muchas gracias¡¡
+19:08:15	 From  karla lucena : Graciasss
+19:08:15	 From  MARIA HONORIO GARCIA : MUCHAS GRACIAS
+19:08:15	 From  Marisol Molina : Gracias, qué bonito detalle. 
+19:08:17	 From  Marisol Gómez Zapata : Muchas gracias 
+19:08:17	 From  juan nestor villa huillca : I.E. 501459 CASHIRUVINE  KIMBIRI VRAEM CUSCO
+19:08:17	 From  Mercedes Vera Tudela de Oruna : Graciasss
+19:08:17	 From  Rosa Cari : Qué lindo!!! gracias
+19:08:17	 From  Magna Arroyo Vergara : Gracias
+19:08:18	 From  ROSA HUAMAN ROJAS : gracias por el detalle tan lindo
+19:08:19	 From  Norma Pumacahua Huamaní : Buenas noches, Soy Norma Pumacahua Huamani. . saludos desde Huancavelica
+19:08:19	 From  Lidia Tineo : Muchas gracias
+19:08:19	 From  nancy marlene morales luna : Gracias
+19:08:20	 From  CARMEN RIVERA HUANAY : buenas noches   con todos , saludos de ugel  Chupaca Junín.
+19:08:21	 From  Teresilda Garcia Molina : Gracias!!!
+19:08:22	 From  Yuly Oyanguren : Siiiii.. un tema muy interesante!
+19:08:23	 From  FLORA BACA : Muchas gracias por sus saludos
+19:08:24	 From  Ana Orduña : GRACIAS  Y7 GUALMANERA
+19:08:25	 From  MÁXIMO FLORIÁN : BUENA NOCHES AMIGOS, SALUDOS PARA TODOS DE MÁXIMO FLORIÁN VILLACORTA
+19:08:28	 From  Marianella Romero : Buenas noches de la IE 110 San Marcos. Feliz día del Maestro
+19:08:29	 From  Lidia Tineo : Que bonito detalle
+19:08:31	 From  Benedicta Salcedo Rivera : Gracias
+19:08:31	 From  Silvia del Rosario Huaccha Abanto : Muchas gracias
+19:08:37	 From  ELSA MARIA CHACIN BRUZZO : BUENAS NOCHES CON TODOS
+19:08:38	 From  Olidia Alvarado : Gracias por todo
+19:08:38	 From  NORMA CANTU : MUCHAS GRACIAS
+19:08:45	 From  juan nestor villa huillca : MUCHAS GRACIAS
+19:08:45	 From  Susana Muñoz : Buenas noches desde Tarma I.E. Mariscal Castilla  Tarma.
+19:08:47	 From  CARMELA VILLAVERDE ESPINOZA : Buenas noches,Carmela Villaverde Espinoza 
+19:08:53	 From  Carmen Castañeda : Muchas gracias por su saludo.
+19:08:53	 From  OVIEDO ESPLANA CASAVILCA : Buenas noches soy de la IE Ramón Castilla Marquesado de huancavelica
+19:08:54	 From  CAMILA RUTH CONTRERAS HERRERA : Buenas noches les saludos desde Cajamarca IE N°784  Combayo
+19:08:57	 From  Licet Cadillo Gutarra : Muchas gracias
+19:08:57	 From  Mary Bayona Coral : De Mary Bayona Coral de la I.E. 134 Mario Florian Lima.SanJuan de Lurigancho
+19:09:00	 From  Abel Zea Bendezú : BUENAS NOCHES CON TODOS
+19:09:01	 From  CELINDA JOSEFINA CUYA HUAMBACHANO : Buenas noches. de Pucusana. I.e
+19:09:05	 From  sonia rodriguez : Buenas noches  desde Huancavelica tierra del mercurio
+19:09:07	 From  Gani Lucy Vásquez Huamán : no se escucha
+19:09:08	 From  NOEMI TAMARA CASTILLO : Buenas noches saludos desde Ancash, UGEL Carhuaz.
+19:09:10	 From  DALILA CARLOS BELITO : Muchas gracias e igualmente para ustedes.
+19:09:13	 From  Maria Burga de Asencio : Buenas noches
+19:09:15	 From  Rosario Rocio Castillo Quimi : Buenas noches. Soy de la I. E Francisco Izquierdo Ríos 
+19:09:19	 From  Flor Tineo Pillaca : Buena noche para todos y todas estimados colegas. 
+19:09:26	 From  Abel Zea Bendezú : SOY ABEL ZEA BENDEZÚ, DE LA UGEL DE NASCA
+19:09:30	 From  Cesar Pulido Cornelio : Cesar R. Pulido Cornelio. I.E. JEEC José Varallanos-Huánuco
+19:09:33	 From  Rosa Hancco : Buenas noches, desde Huancayo-Junin, I.E. Micaela Bastidas. Docente Rosa María Hancco Perez. 
+19:09:44	 From  Sheyla Santisteban Primo : Buenas noches, Región Cajamarca, Ugel San Marcos
+19:09:47	 From  Rosa Caro : IE 227 Paccha Chica  les saluda muy buenas noches 
+19:09:59	 From  cesar pastor Vallejos : saludos a todos Desde PIURA
+19:10:03	 From  Evelyn Barr : BUENAS NOCHES COLEGA!!!
+19:10:06	 From  julio cabana : ie Ricardo palma
+19:10:08	 From  Rosario Moya Arias : Buenas noches  con todos 
+19:10:16	 From  ELSA MARIA CHACIN BRUZZO : ELSA MARIA CHACIN BRUZZO(COLEGIO FRANCISCO IZQUIERDO RIOS) CALLAO
+19:10:33	 From  CELINDA JOSEFINA CUYA HUAMBACHANO : BUENAS NOCHES DE  I.E 7257 MENOTTI BIFFI GARIBOTTO. PUCUSANA. SALUDOS A USTEDES POR EL DIA DEL MAESTRO.
+19:10:35	 From  ALEX LEÓN : Buenas noches, desde Llamellín, UGEL ANTONIO RAIMONDI, DRE ANCASH.
+19:10:38	 From  Marco Antonio Adauto arias : buenas noches a todos saludos para todos colegas desde huancavelica
+19:10:45	 From  Carmen Martinez : Buenas noches. Región Callao.
+19:10:57	 From  ROBINSON CAMILO : buenas noches colegas
+19:11:00	 From  julio cabana : buenas noches
+19:11:03	 From  Libia Soria Guia : Libia Catalina Soria Guia buenas noches IESan Juan Marcona
+19:11:13	 From  ROBINSON CAMILO : elena canta dextre
+19:11:20	 From  MARIA HONORIO GARCIA : MARIA CONSUELO HONORIO GARCIA IE 125 RICARDO PALMA UGEL 05
+19:11:25	 From  DAVID ROBERTO SAAVEDRA SAAVEDRA : Buenas noches. I.E.  10200 Olmos- Lambayeque.
+19:11:27	 From  Luz Hiuaynasi : Buenas noches
+19:11:28	 From  paulina muro : Buenas noches colegas. Gracias por la invitación.
+19:11:31	 From  Karina Herrera : Buenas noches, colegas 
+19:11:33	 From  Maria del Pilar Pedraza Tipacti de Zavala : Buenas noches Inicial 89 Nuestra Señora del Carmen Maria del Pilar Pedraza Tipacti de Zavala Callao 
+19:11:34	 From  Aydee Palacios : buenas noches … I.E. "Amauta" Chupaca
+19:11:35	 From  CARMEN ZARITA MIRAVAL PEÑA : BUENAS NOCHES COLEGAS SALUDOS DESDE HUÁNUCO
+19:11:40	 From  MARISOL APAZA CANAZA : Muy buenas noches con todos y muchas bendiciones.
+19:11:44	 From  Ronald Quispe anchiraico : Buenas noches. I.E N.-1794 RÍO NEGRO - SATIPO 
+19:11:47	 From  Carmen Rosa Quispe Criales : Carmen Quispe Criales Buenas noches  desde Nasca region  Ica
+19:11:50	 From  HERLINDA CHAVEZ ORTEGA : ESTA MUY GRANDE Y NO SE VE BIEN
+19:11:55	 From  Damilú Chávez Vilcarromero : Jesús Obrero
+19:11:57	 From  HERLINDA CHAVEZ ORTEGA : PODRIA REDUCIR UN OQUITO'
+19:12:02	 From  Ortencia Damian Bruno : buenas noches
+19:12:03	 From  Mirian Neponoceno : Buenas noches colegas de la región Callao colegio 5097  San Juan Masias
+19:12:06	 From  Vanessa Esquía Perez : Buenas noches Cebe Mariano Melgar 
+19:12:08	 From  Esperanza VALDERRAMA : No se escucha 
+19:12:12	 From  Juan Retamozo : Buenas noches colegas. Soy de la I.E Francisco Izquierdo Ríos del Callao. Presente
+19:12:12	 From  Fátima Meza Montecillo : Buenas noches maestros 
+19:12:13	 From  Leine Rosalía Condo Castelo : Muchas gracias,por la invitacion
+19:12:13	 From  Cesar Palacios Pariamachi : saludos de la ugel Asunción Ancash 
+19:12:23	 From  Rocio Miranda : Buenas Noches. Ancash I. E. 88025. Coishco. Santa
+19:12:24	 From  JENNY CONTRERAS DEL CASTILLO : BUENAS NOCHES
+19:12:29	 From  Norma Benites de Navarro : Buenas noches, gracias por la invitación
+19:12:30	 From  DAVID RAMIREZ : Buenas Noches colegas un saludo desde Ancash
+19:12:36	 From  Rufino Gomez Mejia : Rufino Gomez Mejia, desde Nasca- Ica; I.E. Roberto Pisconti Ramos
+19:12:37	 From  Fátima Meza Montecillo : I. E. 32354 La Merced - Lauricocha 
+19:12:41	 From  Naty Mendoza : 5022 FRANCISCO IZQUIERDO RÍOS  CALLAO
+19:12:52	 From  Maruja Berrios Espinoza : buenas noches, escucho nada
+19:13:00	 From  ELSA IRENE RAVINES NOVOA DE PASTOR : BUENAS NOCHES IEI N° 864 HUACARIZ SAN ANTONIO DE CAJAMARCA ELSA IRENE RAVINES NOVOA DE PASTOR
+19:13:00	 From  Adriana Choccechanca : Buenas noches 
+19:13:00	 From  Jjenny Alfaro Cancho : Buenas noches y gracias por la invitación
+19:13:15	 From  EDWIN ARIZA : Buenas noches
+19:13:19	 From  Katy Jimenez Horna : BUENAS NOCHES UN SALUDO CORDIAL A TODOS DESDE CHIMBOTE
+19:13:19	 From  CARLA CANCHARI : Buenas noches 
+19:13:20	 From  Luzmila Ortiz : Buenas noches I.E.I. Nro 211 Pisco ¡¡¡¡Presente!!!!
+19:13:21	 From  EDITH SALAS : DE EDITH SALAS ABALOS,BUENAS NOCHES COLEGAS DE LA I.E PACHACUTEC DE SAN MARCOS-HUARI
+19:13:31	 From  Jaime Alfonzo Ramirez Rojas : buenas noches
+19:13:49	 From  David Serrano Jacinto : Buenas noches soy  de I.E Retamayoc. Región Huanuco
+19:13:50	 From  MIGUELINA MANRIQUE GONZALES : BUENAS NOCHES 
+19:13:52	 From  ELA VEGA JAPA : buenas noches
+19:14:01	 From  Oswaldo Huasasquiche Medina : Buenas noches
+19:14:10	 From  ELIZABETH CARHUANCHO ALDECOA : Buenas noches FRANCISCO IZQUIERDO RIOS Presente
+19:14:10	 From  ROBINSON CAMILO : y los desempeños donde queda dentro de la evaluacion
+19:14:10	 From  Rosario Quiroz Pinashca : Buenas noches
+19:14:11	 From  liz serveleon : buenas noches  con todos liz deysi serveleon quinto.
+19:14:22	 From  KATIRINA SIMBRON CONTRERAS : BUENAS NOCHES QUERIDOS COLEGAS 
+19:14:29	 From  Rosa Chinquillo : Buenas noches, Rosa Chinquillo Arango, IE 22402 MICAELA BASTIDAS Nasca-Ica.
+19:14:32	 From  Aurelio FLORES CONDORI : hola
+19:14:34	 From  GLENY MILKAR GABRIEL CARDICH : BUENAS NOCHES DE GLENY MILKAR GABRIEL CARDICH PROFESORA COORDINADORA DE PRONOEI DE LA UGEL SOD DE MAYO REGION HUANUCO
+19:14:39	 From  ELIZABET NAVARRO MUNARRIZ : Buenas noches colegas
+19:14:42	 From  Rivelino Arteta Cabrera : muy buenas noches Rivelino Arteta de Arequipa
+19:14:44	 From  JENNY CONTRERAS DEL CASTILLO : JENNY CONTRERAS DEL CASTILLO TENGAN BUENAS NOCHES
+19:14:49	 From  Maria del Carmen Anchante Fernandez : buenas noches colegas
+19:14:58	 From  julia Villacorta : buenas noches
+19:14:59	 From  DAVID RAMIREZ : David Ramírez Barreto desde San Pedro de Chana Huari Ancash
+19:15:08	 From  Claudia Rossana Quevedo Ayllon : Buenas noches a todos los colegas
+19:15:08	 From  FLOR PEREIRA SILVERA : buenas noches con todos. Soy Flor Pereira, maestra de educación inicial 
+19:15:25	 From  Narciso Castillo paredes :  Buenas noches  a todos, soy el profesor  Narciso Castillo Paredes de la I.E " Enrique Delhorme" de la regio'n 
+19:15:26	 From  Norma Diestra : BUENAS NOCHES DESDE  HUANCAYO-JUNIN
+19:15:32	 From  EDDA : BUENAS NOCHES CON TODOS 
+19:15:34	 From  María AMADO AMADO : María Amado Amado de Ancash
+19:15:34	 From  LUZ BERTHA MALPARTIDA ESPIRITU : BUENAS NOCHES , LUZ BERTHA MALPARTIDA ESPIRITU ,I.E.N° 192 SAN BENITO- MONZON
+19:15:40	 From  FANNY PORTELLA AGURTO : uenas noches
+19:15:43	 From  Corinne Díaz Torres : Buenas noches Cori Díaz desde La Libertad.
+19:15:48	 From  MARÍA DIAZ GARCIA : MARIA DE LAS MERCEDES DÍAZ GARCÍA  I.E 255 MARIAVILCA SAN MARCOS - CAJAMARCA
+19:15:52	 From  Rosa Maman : Buenas noches, Rosa Maman Castro, I.E. Dario Arrus
+19:16:02	 From  Saul Brent Llana Córdova Saúl Brent : Buenas noches soy el maestro Saúl Brent Llana Córdoba de la I.E.N 31683 MICAELA BASTIDAS de la UGEL Río Ene Mantaro región Junín.
+19:16:04	 From  Patricia Natalia Condezo Tocas : PATRICIA NATALIA CONDEZO TOCAS BUENAS NOCHES A TODOS
+19:16:07	 From  Julia Gavina Obregón Huaytaya : Buenas noches con todos Jesús Nancy Pillaca Quincho I.E. 22402 Micaela Bastidas.Ica -Nasca
+19:16:15	 From  Christian Zuazo Hernandez : Buenas noches "Fermín del castillo Arias" Nasca-Ica. presente
+19:16:16	 From  Aracelli Muñoz ecos : buenas noches Docentes, Muñoz Ecos Aracelli, IE. Ricardo Palma.
+ San juan de Marcona
+19:16:16	 From  María AMADO AMADO : Buenas noches profesores 
+19:16:16	 From  Juana Rueda Bastidas : Juana Rueda Bastidas
+19:16:25	 From  Sonia Lifonzo Munive : Buenas noches, Sonia Hilda Lifonzo Munive maestra de la I.E. 30080 Huamancaca Chico - Chupaca - Región Junín
+19:16:26	 From  Elsa Alayo Figueroa : buenas noches Elsa Alayo Figueroa de la I.E 88044 Coishco,  Ancash 
+19:16:45	 From  JEHILEE PETRONILA CAJO HERNANDEZ : Buenas Noches estimados colegas. presente I.E. Ricardo Palma Marcona.
+19:16:47	 From  BLANCA ESTELA MADGE MEDINA : Buenas NOCHES, Soy la docente de la Institución Educativa Felipe Santiago Estenós Distrito de Chaclacayo. Agradecida por esta invitación. Bendiciones. 
+19:16:49	 From  María AMADO AMADO : Buenas noches desde Ancash
+19:16:54	 From  Karen Bellido : BUENAS NOCHES I.E MARIA REICHE NEUMANN - NASCA
+19:16:58	 From  Fanny Bardales Jara : buenas noches Fanny Bardales Jara,IE 103 choropampa
+19:17:02	 From  Edith ordoñez : Buenas noches Edith Emperatriz Ordoñez Chávez IE Lucyana
+19:17:03	 From  Juana Rueda Bastidas : Menotti Biffi Garibotto N 7257
+19:17:15	 From  Catalina paredes Gonzales : BUENAS NOCHES DESDE LA PROVINCIA DE PICOTA REGION SAN MARTIN.
+19:17:16	 From  Sandra Rua : Buenas noches Sandra Rua del colegio Tnte. Crnel. Leopoldo Perez Salmón
+19:17:19	 From  Madeleine Aguero : Buenas noches
+19:17:24	 From  Juana Rueda Bastidas : Pucusana presente 
+19:17:50	 From  EVA MARTHA CHAVEZ ALVARADO : Buenas noches, profesora de la I.E.I. N° 914 URUBAMBA SECTOR II-CAJAMARCA, evi10abril@gmail.com
+19:18:04	 From  Rolando Joel Fgueroa Placido : BUENAS NOCHES SALUDOS DESDE YUNGAY ANCASH
+19:18:13	 From  SANTONA CANDIA GAVILAN : Callao: Jose Maria Arguedas.....
+19:18:31	 From  ROMER SARMIENTO CHAUPIS : DRE HUÁNUCO
+19:18:33	 From  Jhonn Wildy Medina Porras : Buenas noches Jhonn Wildy Medina Porras, IE. 5048 Mariscal Ramón Castilla Marquesado. Callao
+19:18:37	 From  ALBERTO FREIRE CHUJUTALLI : BUENAS NOCHES A TODSO DESDE LIMA -SANTA ANITA
+19:18:41	 From  CATALINA RABANAL RONCAL : Buenas noches . CATALINA RABANAL RONCAL IEI.N° 021 Agocucho -Cajamarca
+19:18:45	 From  JULI GALVEZ PRINCIPE : Buenas noches I.E.I. N°631 Tingo María Huánuco.
+19:18:49	 From  Adriana Choccechanca : Buenas noches soy la profesora Adriana Luisa Choccechanca Gutiérrez de la I E. Micaela Bastidas de Nasca.
+19:18:51	 From  Paredes Rubin de Celis : Buenas noche saludos desde Arequipa
+19:18:52	 From  Juana Monsalve Cubas : Buenas noches, saludos desde Lambayeque- Chiclayo
+19:18:59	 From  IRLANDA SOTELO FERNANDEZ : buenas noches. Ancash - Carhuaz
+19:18:59	 From  ROSITA GAMBOA CAN : BUENAS NOCHES CON TODOS. 
+19:19:01	 From  Yolanda Sequeiros : Buenas noches, Yolanda Sequeiros, desde Abancay -Apurimac I.E. Miguel grau
+19:19:01	 From  Felicita Lizarazo : buenas noches chiclayo lambayeque
+19:19:10	 From  Narciso Castillo paredes : Buenas noches , soy el profesor Narciso Castillo Paredes  de la I.E Enrique Delhorme , Nº 5032 de la regio'n Callao.
+19:19:19	 From  EUGENIO TUNQUE  HUAMAN : BUENA NOCHES DESDE HUANCAVELICA, SALUDOS A TODOS Y TODAS
+19:19:24	 From  Lucía Pando : BUENAS NOCHES. UGEL ANTABAMBA-APURIMAC
+19:19:26	 From  RUTH ESPINOZA ROSAS : Buenas noches, desde Huánuco, soy la profesora RUTH DEISY ESPINOZA ROSAS,
+19:19:26	 From  Mara Valladares : Saludos IE PÉREZ SALMÓN -  Callao. MARA VALLADARES OJEDA Presente
+19:19:35	 From  Henry LOPEZ LAZO : Buenas noches a todos los colegas del país soy profesor de la región Junín provincia de chanchamayo  pichanaki Perú I.E. 31364 Bajo kimiriki
+19:19:36	 From  Jaime Alfonzo Ramirez Rojas : fermin del castillo Arias nasca Ica
+19:19:49	 From  Guicela Giovanna Cabrejo paredes : Buenas noches soy Guicela Cabrejo desde Trujillo de la I.E. 81583 La Merced 
+19:19:54	 From  EDITH PAJAR HUAMANYAURI : BUENAS NOCHES DESDE SATIPO I.E 1026 CENTRO HUAHUARI
+19:20:14	 From  Maria del Rosario Sevilla Flores : Buenas noches a todos
+19:20:17	 From  GLEMBER HUALO TORRES ARNAO : Muy buenas noches estimados colegas, les saluda el profesor Glember Torres Arnao de la región Ancash Huaraz
+19:20:32	 From  Alifoncio Rojas Córdova : Buensa noches, Alifoncio Rojas Córdova CETPRO SAN JOSÉ ARTESANO
+19:20:35	 From  Elizabet Norma Flores Licito : buenas noches colegas desde Ancash 
+19:20:35	 From  Ybeth Damaso paredes : Buenas noches soy Ybeth Damaso del CEBE Mariano Melgar desde Arequipa 
+19:20:39	 From  ALBERTO CCENCHO JURADO : BUENAS NOCHES, SOY EL PROFESOR ALBERTO CCENCHO DE HUANCAVELICA-RCM
+19:20:53	 From  Galaxy J2 Core : Buenas noches, por favor, no tengo volúmen
+19:20:54	 From  Maria Zevallos Villanueva : Ugel Dos de Mayo
+19:20:58	 From  LUIS AQUINO DAMIAN : Buenas noches UGEL Yungay
+19:21:16	 From  LORENA MISAICO : buenas noches, soy Lorena Misaico de Marcona
+19:21:46	 From  Tazania Claudio Berrospi : buenas noches soy Tazania Alfira Claudio Berrospi de la IE Inicial No 295 de Pavina ugel Pachitea dpto de Huanuco por favor no se escucha el audio
+19:21:46	 From  MARCELINA MARTHA ILLANES BITRON : BUENAS NOCHES, SOY PROFESOR: MARCELINA MARTHA ILLANES BITRON, DEL CEBA "SAN JUAN" DE MARCONA.
+19:21:49	 From  Mercedes Matos : Buenas noches Mercedes Matos Huaytan. Coishco . Ancash
+19:22:08	 From  BRISASELVA BERASTEIN AYLLÓN : Buenas noches a todos, desde la IE 206 de San Juan de Capi - Monzón.
+19:22:11	 From  Luz Ramos Saldivar : Buenas noches a todos
+19:22:12	 From  Maria Luisa Caceres Serna : Buenas noches. Ugel Huanuco. Maria Luisa Cacerese Serna
+19:22:33	 From  Emilia Cerron Cárdenas : Buenas noches soy Emilia Cerron  Cardenas
+19:22:41	 From  Jorge Enrique Puente Gutiérrez : ENRIQUE DESDE HUANCAVELICA
+19:22:42	 From  MARIA ELENA TICONA PACHECO : BUENAS NOCHES SOY LA MAESTRA MARÍA ELENA TICONA PACHECO DE HUANCAVELICA
+19:23:04	 From  Judith Cotrina Villena  to  Maricarmen Portocarrero Lopez(Privately) : Buenas noches maestros IEN775 Nueva Independencia de Huánuco.
+19:23:30	 From  MARÍA BERNABÉ : María Luisa Bernabé Pérez IE Ricardo Palma_SJL UGEL 05
+19:23:35	 From  ROCIO ROSEMBERG : BUBENAS NOCHES,Prof.ROCIO ROSEMBERG MAGUIÑA IE.PACHACUTEC-SAN MARCOS UGEL-HUARI
+19:23:49	 From  Carol De Los Ángeles Esaine  Ambrocio : Buenas  noches soy la profesora de la I.E 1468 Pabellón  de Combayo  Cajamarca 
+19:23:51	 From  SANDRA OLINDA AQUIJE GAMERO : BUENAS NOCHES QUERIDOS COLEGAS MI NOMBRE SANDRA OLINDA AQUIJE GAMERO
+19:24:09	 From  SANDRA OLINDA AQUIJE GAMERO : DE LA UGEL NASCA
+19:24:27	 From  Maria Rojas : Maria Rojas Tito  I.E  Fermin Castillo Arias
+19:24:49	 From  Azucena Rodriguez : Buenas noches!Profesora AZUCENA RODRIGUEZ RAMOS de la I.E. N°8692 "JOSÉ STRAUSSBERGER". UGEL HUAYLAS. ANCASH
+19:24:49	 From  Mariana Zarate : Pueden ir escribiendo sus preguntas por acá
+19:25:15	 From  Luz Ramos Saldivar : Buenas noches a todos Soy Directora de la IE Dan Antonio del Centro Poblado de Lingan Grande
+ de la provincia de Chota, departamento de Cajamarca, país PERU
+19:25:49	 From  ROBINSON CAMILO : instrumentos y técnicas de evaluación por favor  que amplie ese tema
+19:25:55	 From  Noely Arellano : Buenas noches colegas soy la profesora Noely I.E. 89506 Coishco
+19:25:56	 From  Rufino Gomez Mejia : agradecería nos envie al correo esta charla 
+19:26:02	 From  Rolando Joel Fgueroa Placido : Cuales son los criterios de evaluación?
+19:26:04	 From  Mariana Zarate : Pueden ir escribiendo sus preguntas por acá
+19:26:09	 From  Lidia Márquez : Buenas noches. Lidia R. Marquez R.I.E. 10117 CRUZ DE PUMACIRCA, Distrito de Chóchope, Región Lambayeque
+19:26:13	 From  Mariana Zarate : Pueden ir escribiendo sus preguntas por acá
+19:26:19	 From  JULIO DEL CASTILLO : DEJEN DE COMENTAR, IMPIDEN VISUALIZAR. GRACIAS.
+19:26:34	 From  Marisol Molina : Los reactivos "sobresaliente" "algunos" ¿realmente ayudan a evaluar con objetividad y precisión?¿cuando sería sobresaliente? ¿"algunas", cuantas son?
+19:26:48	 From  MARITZA QUISPE : ASI ES ...YA HABRÁ MOMENTO PARA PREGUNTAR
+19:27:02	 From  MARITZA QUISPE : NO ENVIAR PREGUNTAS
+19:27:23	 From  Santa Ortiz Rojas : buenas noches a todas y todos
+19:27:25	 From  JOSE ANDRES YARLAQUE GASTELO : BUENAS NOCHES , SOY EL DOCENTE JOSE ANDRES YARLAQUE GASTELO - INSTITUCION EDUCATIVA SAN MARCOS 10360 MOCAPE - OLMOS
+19:27:58	 From  ZOILA AYARZA RIVEROS : no escriban ya por favor
+19:28:11	 From  Teofilo Lucas De la cruz : Por favor. Seria posible que nos envié los ppts. se le agradece por anticipado.
+19:28:16	 From  Rocío Luna Rojas : buenas noches amigos desde lamas, rREGION SAN MARTIN
+19:28:20	 From  Elio Loli : No hay audio. 
+19:28:21	 From  Silvia Getrudes ACUÑA SEGOVIA : Dejen de visualizar el chat, no deja ver las diapositivas
+19:28:32	 From  Elizabeth Tavara Sosa : No se escucha 
+19:28:36	 From  Bertha Paula De La Cruz Cruz : Buenas noches, se le agradecería mucho el compartir los ppt.
+19:28:39	 From  yobana gayoso urbina : NO ESCRIBAN NO SE VISUALIZA LAS DIAPOSITIVAS
+19:28:40	 From  Monica Ramos Flores : Nos puede explicar del portafolio docente
+19:28:47	 From  MAYUMI DORCAS ACUÑA ORE : Muy buenas noches a todos los colegas de Distintos lugares 😍aquí presente🔊📡🌉 😊NUESTRA SEÑORA DEL CARMEN😊ANAGARES_HUANCAVELICA😊☺
+19:28:50	 From  Maricarmen Portocarrero Lopez : https://www.facebook.com/vivavivevalores/videos/356400351992343
+19:28:58	 From  Rocío Luna Rojas : NO CHATEEN POR FAVOR NO SE VISUALIZA LA DIAPOSITIVA COMPLETA,GRACIAS
+19:29:15	 From  Sara Canchanya Lino : no escucho nada
+19:29:15	 From  Maricarmen Portocarrero Lopez : Se ha alcanzado la capacidad máxima del zoom, pueden participar del webinar https://www.facebook.com/vivavivevalores/videos/356400351992343
+19:29:17	 From  Alain Valencia Medina : IE 82975 HUANICO  - CAJAMARCA
+19:29:23	 From  Giuliana Valencia : Buenas noches Giuliana Valencia Quispe I.E Micaela Bastidas Nasca
+19:29:34	 From  Luis Alberto Coca Lazo : LOS QUE INGRESARON TARDE LIMITENSE A ATENDER LA EXPOSICION Y FORMULEN SUS PREGUNTAS
+19:29:42	 From  pedro aguilar : NO CHATEEN POR FAVOR NO SE VISUALIZA LA DIAPOSITIVA COMPLETA,GRACIAS
+19:29:45	 From  REYNA VERA CRUZATTE : REYNA VERA DE LA I.E 880444 
+19:29:58	 From  SOLEDAD SOLIS FARFAN : IE 50497 "Rosa de América" Quincemil
+19:30:26	 From  Tulio Guevara : desactive el chat
+19:30:29	 From  Patricia Guzman : IE 5040 Pedro Ruiz Nivel Incial
+19:30:30	 From  Maricarmen Portocarrero Lopez : Se ha alcanzado la capacidad máxima del zoom, pueden participar del webinar https://www.facebook.com/vivavivevalores/videos/356400351992343
+19:30:36	 From  Marisol Molina : Los que no desean ver el chat, hagan clic en el ícono y desaparecerá. La organizadora ha indicado que podemos poner preguntas. 
+19:31:07	 From  Mauro Washington Gastelú Luyo : Por favor, en vano escriben sus nombres, no están pasando lista.
+19:31:23	 From  Maricarmen Portocarrero Lopez : Se ha alcanzado la capacidad máxima del zoom, pueden participar del webinar https://www.facebook.com/vivavivevalores/videos/356400351992343
+19:31:35	 From  JAMNER MALCA PALOMINO : No se escucha nada. 
+19:32:14	 From  Maricarmen Portocarrero Lopez : Se ha alcanzado la capacidad máxima del zoom, pueden participar del webinar https://www.facebook.com/vivavivevalores/videos/356400351992343
+19:32:15	 From  juan nestor villa huillca : NO SE ESCUCHA NADA 
+19:32:24	 From  juan nestor villa huillca : CREO QUE NOS CORTARON EL AUDIO
+19:33:07	 From  Mabel Ascarza : verifica tu audio
+19:33:12	 From  ELIZABETH TORRES : Buena noches desde Junín Hyo saluda.
+19:33:47	 From  JAMNER MALCA PALOMINO : Verifiquen lo que algunos profesores están escribiendo al chat, de lo contrario no sirve de nada mirar las diapositivas o ppt que están pasando. 
+19:34:08	 From  Maricarmen Portocarrero Lopez : Se ha alcanzado la capacidad máxima del zoom, pueden participar del webinar https://www.facebook.com/vivavivevalores/videos/356400351992343
+19:34:11	 From  JAMNER MALCA PALOMINO : Porque no se escucha absolutamente nada. 
+19:34:38	 From  Mauro Washington Gastelú Luyo : Sube el volumen
+19:34:57	 From  Vanessa Esquía Perez : Active su micro al lado izquierdo unos auriculares. 
+19:35:03	 From  Lucía Pando : El audio está bien
+19:35:19	 From  JAMNER MALCA PALOMINO : Estoy con todo el volumen y no se escucha nada. 
+19:36:02	 From  Rosmery Ortega : Intersante todas las propuestas cuando hay acceso a internet. Sin embargo, la realidad es otra, no todos los estudiantes tienen acceso a internet.
+19:36:17	 From  Mercedes Matos : presiona el micrófono la primera opción. llamar desde....
+19:36:23	 From  Mercedes Matos : y listo.
+19:36:24	 From  Yuly Oyanguren : Excelente .. el Padlet es de mucho gusto para los estudiantes... en mi institución lo usamos en varios cursos la mayoría de veces después de cada clase.
+19:36:57	 From  Yuly Oyanguren : inclusive el link del padlet se comparte por whatsApp
+19:37:10	 From  LUCIA GARCÍA MÉNDEZ : MUY DESPACIO HABLA LA MAESTRA.
+19:37:19	 From  JOHANNA PALACIOS YNCA : es interesante el tema pero nuestra realidad es otra en cada region ,buscar otros medios para obtener la evidencias
+19:37:51	 From  Patricia Bobadilla : NO VEO LAS DIAPOSITIVAS
+19:37:55	 From  Yuly Oyanguren : Tienes razón Johana por ello debemos adecuarlos a cada realidad
+19:38:07	 From  Maria del Pilar Pedraza Tipacti de Zavala : No se escucha porque 
+19:38:14	 From  Yuly Oyanguren : se pueden hacer en papel también
+19:38:22	 From  Yuly Oyanguren : o en un papelote
+19:38:28	 From  Bertha Altamirano Pacheco : Muy interesante todo, pero mi realidad es que muy pocos niños cuentan con Internet. 
+19:39:00	 From  Maricarmen Portocarrero Lopez : Se ha alcanzado la capacidad máxima del zoom, pueden participar del webinar https://www.facebook.com/vivavivevalores/videos/356400351992343
+19:39:08	 From  Juan Torres : Muy interesante la información. Pero cuando no hay conexión con el Internet. Ni medios, poder dar mas experiencias. A la realidad de nuestras provincias. 
+19:39:52	 From  CATALINA RABANAL RONCAL : Y PARA EDUCACION INIAL PORFA PUEDE DARNOS ALGUN ALCANCE PARA ESTE NIVEL
+19:40:07	 From  Maricarmen Portocarrero Lopez : Se ha alcanzado la capacidad máxima del zoom, pueden participar del webinar https://www.facebook.com/vivavivevalores/videos/356400351992343
+19:40:45	 From  ALBERTO CCENCHO JURADO : los videos son la.mejor alternativa, eso mejora nuestras capacidades en manejo de Tics. 
+19:41:21	 From  Castillo portilla Fany Elizabeth : Fany Elizabeth Castillo portilla, IEI 835 Numipampa _cajamarca. Muy bonito la explicación. 
+19:41:24	 From  HÉCTOR GUZMÁN DÍAZ : INTERESANTE PERO QUE HACER CUANDO LA MITAD DE TU AULA NO TIENE COMO COMUNICARSE PORQUE SOLO TIENE CELULAR PERO SIN UN PLAN DE WHATSAPP POR EJEMPLO Y CUANDO LOS LLAMAS NO ESTAN, ESTAN OCUPADOS PORQUE MUCHOS DE LOS NIÑOS EN PRIMARIA NO TIENEN UN CELULAR
+19:41:31	 From  Marisol Molina : En el caso planteado (Prof. Daniela) describe una necesidad de apoyo en relación a las condiciones para el aprendizaje. Podría dar un ejemplo de retroalimentación para el aprendizaje.
+19:41:32	 From  Sheyla Santisteban Primo : ¿Cómo hacer la retroalimentación en el nivel inicial, de la zona rural, donde los padres de familia solo cuentan con celulares de baja gama, solo son para hacer y recibir llamadas?
+19:41:43	 From  elizabeth guerreros : Colegas la mayoría de los estudiantes trabajan con WhatsApp en esta estrategia de educación a distancia.
+19:41:52	 From  Marisol Cahuana Estrada : Buenas Noches Marisol Cahuana
+19:41:54	 From  Catalina paredes Gonzales : MUY IMPORTANTE TODA LA INFORMACION, NOS GUSTARIA QUE NOS COMPARTAN POR FAVOR.
+19:43:31	 From  María Del Rosario Ruiz Paredes : Buena información. Gracias
+19:43:49	 From  Nícida Llanos Alejandría : Cómo evaluar a los estudiantes que solo cuentan con un celular básico.
+19:44:29	 From  Mariana Zarate : Pueden hacer sus preguntas por acá
+19:44:36	 From  Mariana Zarate : Pueden hacer sus preguntas por acá
+19:44:51	 From  paulina muro : interesante. gracias
+19:45:00	 From  Indira Flores : como podría ser el portafolio para niños del nivel  Inicial?
+19:45:04	 From  Monica Ramos Flores : Quiero que nos explique del portafolio docente
+19:45:06	 From  J7 Neo : gracias
+19:45:07	 From  Patricia Edith Guillén Aparicio : Gracias por la capacitación.
+19:45:12	 From  Judith Leon : podría volver a publicar la conclusión de la charla... por favor
+19:45:13	 From  creliz falcon : muy interesante, muchas gracias
+19:45:13	 From  Rigoberto Juan SALAZAR MAMANI : Despierta Carlos
+19:45:14	 From  MARÍA DIAZ GARCIA : EN EL NIVEL INICIAL. CÓMO SE REALIZARÁ EL PORTAFOLIO
+19:45:18	 From  viky jacobo vera : COMO REALIZAR LA EVALUACION FORMATIVA EN LAS ZONAS RURALES QUE SOLO CUENTAN CON UN CELULAR BASICO
+19:45:19	 From  Gandhy Del Rocio Suarez Paucar : Interesante. Gracias por las orientaciones Srta. Mercedes
+19:45:21	 From  María Mendoza : Se puede obligar el envío de evidencias
+19:45:21	 From  CARMELA VILLAVERDE ESPINOZA : muchas gracias muy interesante
+19:45:21	 From  Audina López Castro : Muy interesante, gracias 
+19:45:29	 From  Cesar Palacios Pariamachi : podría explicar la rúbrica por competencias y capacidades 
+19:45:29	 From  Maria Teresa Ramirez Constantino : Cómo se podría hacer un portafolio con niños de primaria?
+19:45:31	 From  Marisol Molina : La rúbrica presentada ¿Qué aprendizaje evalúa? ¿Qué competencia o qué desempeño?
+19:45:33	 From  ELVIA AGRIPINA RAMIREZ BAUTISTA : En caso de inicial, las evidencias como se pueden ejecutar
+19:45:34	 From  Edinson Avila : Muchas gracias por el ejemplo de portafolio para el WP. Vale
+19:45:38	 From  Bertha Paula De La Cruz Cruz : como hacer la evaluación formativa cuando solo tiene celular para llamadas nada más.
+19:45:39	 From  Marcos Huayllani Quispe : ¿Cómo evaluar en las zona rurales, donde no conectividad?
+19:45:43	 From  maria elena baldeon viclhez : Nivel inicial zona rural cada quince días se encuentra con los niños por favor ayudeme
+19:45:44	 From  ROLANDO TACAS ROLANDO : Interesante ponencia
+19:45:45	 From  Rosa Cari : Interesante. Muchas gracias.
+19:45:45	 From  Ana Luz Florez Luque : Si evaluo competencias los criterios de evaluación de donde los saco de los desempeños o estándares?
+19:45:48	 From  Guissela Janett Cornelio Hinostroza : en las instituciones que no cuentan con internet como podemos presentar el portafolio 
+19:45:48	 From  ROXANA CARRASCO MONDRAGON : MUY IMPORTANTE TODA LA INFORMACION, NOS GUSTARIA QUE NOS COMPARTAN POR FAVOR.
+19:45:51	 From  SANTONA CANDIA GAVILAN : ¿Como sera la evaluacion cuantitatva o sumativa cuando fnalicen el año academico de este año escvolar??
+19:45:53	 From  DAVID RAMIREZ : ¿Cómo evaluar las competencias en educación inicial en la educación a distancia?
+19:45:55	 From  MARCELINA MARTHA ILLANES BITRON : GRACIAS POR LA CAPACITACION NOS GUSTARIA COMPARTIR EL PPT.
+19:46:12	 From  Mariana Zarate : Pueden hacer sus preguntas por acá
+19:46:13	 From  ELVIA AGRIPINA RAMIREZ BAUTISTA : Muy interesante, pero la realidad en zona rural y urbana son diferentes
+19:46:17	 From  Guissela Janett Cornelio Hinostroza : la evidencia donde no ay internet ...
+19:46:17	 From  Alifoncio Rojas Córdova : Por favor realizar un acomodo sobre el Portafolio en los CETPRO
+19:46:27	 From  ZORAIDA EMPERATRIZ SPELUCIN ALIAGA : EXCELENTE TEMA FELICITACIONES 
+19:46:29	 From  elizabeth guerreros : En el caso de que no tengan WhatsApp se puede realizar el seguimiento de los aprendizajes y la retroalimentación a través de las llamadas al celular y constatar su desempeño a través de preguntas de carácter descriptivo y reflexivo.
+19:46:29	 From  IRLANDA SOTELO FERNANDEZ : Còmo podríamos utilizar el portafolio en inicial para poder evaluar
+19:46:30	 From  Hérmes Marcos Ríos Angeles : Felicitaciones interesante disertación ojalá compartan la información. Gracias.
+19:46:31	 From  CECILIA GARCIA HUAMANÍ : Todo excelente ¿qué hacer con los estudiantes que no cuentan con conectividad?, estudiantes que en casa cuentan con un solo celular y son cuatro niños en casa, todos requieren trabajar.
+19:46:37	 From  Juan Torres : Deberían preguntar a los estudiantes de nuestra región del Interior de nuestro país y no a las grandes unidades de las ciudades. Falsa información 
+19:46:40	 From  MELBA ASCATE : GRACIAS... COMPARTIR LOS PPT POR FAVOR
+19:46:42	 From  Maria Apaza : Me gustaría que nos comparta esta información del portafolio por favor
+19:46:47	 From  Monica Ramos Flores : Que diferencia hay El portafolio del estudiante y portafolio docente
+19:46:59	 From  cesar pastor Vallejos : EN MI COLEGIO DE SECHURA LOS ALUMNOS NO ESTAN HACIENDO PORTAFOLIO PORQUE DICEN QUE NO TIENEN PARA COMPRAR HOJAS Y EN REUNIÓN QUEDAMOS QUE UTILICEN SUS CUADERNOS.AHORA QUE CRITERIOS UITILIZAMOS PARA EVALUARLOS.GRACIAS.
+19:47:04	 From  PEDRO VIDAL : En el contexto de las zonas rurales donde no hay conectividad para internet. donde la comunicación es solamente con celulares básicos. ?Cómo se puede hacer el portafolio?
+19:47:04	 From  Roberto Chávez   Ballena : SI SE PODRIA DAR EJEMPLO PARA EL AREA DE EDUCACION FISICA
+19:47:06	 From  CARMELA VILLAVERDE ESPINOZA : compartir los PPT por favor
+19:47:06	 From  Deisy Longa Vargas : La mayoría de estudiantes del nivel de primaria sus padres va a trabajar por la mañana y regresan por la noche. Con qué plataforma digital me recomendaría para acompañarlos.
+19:47:09	 From  vilma ottos ñañacc : buenas noches  tengo por entendido que la retroalimentacion es al estudiante, mas no al padre de familia en el caso de los niños de 3 años  de educacion  inicial cual seria la mejor forma de retroalimentacion.
+19:47:10	 From  Marleni Reyes Gomez : BUENAS NOCHES NOS PODRIA COMPARTIR EL PPT
+19:47:13	 From  FLOR PEREIRA SILVERA : como podemos utilizar el portafolio en inicial
+19:47:19	 From  Sheyla Santisteban Primo : ¿Si no tenemos alguna evidencia del estudiantes cómo haremos la retroalimentación? 
+19:47:20	 From  Jenny Rodríguez : Gracias por la presentacion
+19:47:20	 From  BEATRIZ RODRIGUEZ : Como debe ser el portafolio en primer grado de primaria
+19:47:29	 From  Carolina Salazar Alvarado : Por favor nos comparte el PPT por favor está muy interesante
+19:47:38	 From  Mercedes Matos : Gracias muy buena información . Esta en nosotros los docentes adecuarlo a nuestra realidad. 
+19:47:55	 From  Elsa Guevara : tengo a 300 estudiantes 
+19:48:01	 From  Nícida Llanos Alejandría : Mis estudiantes tienen solo un celular básico, como puedo retroalimentar a mi estudiante.
+19:48:02	 From  Antonio Aranngo Ventura : Maestra buenas noches, excelente ponencia felicitaciones. Solicito grabación del vídeo y el ppt por servicio. Muchas gracias
+19:48:07	 From  Gaby Rosales Trinidad : Buenas noches, gracias por la capacitación muy interesante e importante quisiera solicitar que comparta su ppt para socializar con nuestros compañeros nuestros de la ugel Huari Ancash. Nuevamente gracias y felicitaciones. 
+19:48:13	 From  SOLEDAD SOLIS FARFAN : Muchas gracias por la información, si fueran tan amables podrían compartir el PPT.
+19:48:14	 From  Norma Pumacahua Huamaní : Maestra ¿cómo hacer la retroalimentacion, cuando se tiene mas de 200 alumnos? gracias
+19:48:16	 From  nestor poma : COMO SE PUEDE HACER RETROALIMENTACION GRUPAL 
+19:48:28	 From  MARCELINA MARTHA ILLANES BITRON : RETROALIMENTACION EN SECUNDARIA MATEMATICA.- PERIFERICO
+19:48:31	 From  CARMEN ZARITA MIRAVAL PEÑA : LA RETROALIMENTACIÓN EN SECUNDARIA
+19:48:33	 From  Bertha Paula De La Cruz Cruz : como retroalimentar cuando no envían las evidencias o productos de las actividad del día.
+19:48:36	 From  SEGUNDO DANIEL MEJIA CERCADO : que tipo de evidencias debe tener el portafolio para verificar que es hecho por el estudiante y no por el padre de familia
+19:48:40	 From  Georgina Chuquihuaccha cruz : Buenas noches y cómo es el portafolio para los docentes.Podría explicar.
+19:48:45	 From  Marleni Reyes Gomez : como realizamos la retroalimentación en primer grado por favor.
+19:48:50	 From  nestor poma : QUE DIFERENCIA HAY ENTRE RETROALIMENTACION DESCRIPTIVA Y LA REFLEXIVA
+19:48:52	 From  JULI GALVEZ PRINCIPE : como evaluar, cuando no envían evidencias, los niños no hablan
+19:48:59	 From  Paredes Rubin de Celis : Gracias por la información.
+19:49:06	 From  Maria Apaza : Como de da la retroalimentación en el nivel secundario especialmente en C y T?
+19:49:07	 From  JULIA LIZARZABURO ELGUERA : COLEGAS, FELICITACIONES POR COMPARTIR SUS EXPERIENCIA, SERIAN TAN AMABLE DE COMAPRTIR MATERIAL PDF. GRACIAS, SALUDOS DE NASCA
+19:49:07	 From  María Mendoza : en secundaria, ya se puede pedir el portafolio
+19:49:20	 From  Yuly Oyanguren : De acuerdo a la norma, para nuestros niños o adolescentes que no pueden enviar sus evidencias por falta de conectividad .. las pueden archivar junto a su reflexión para presentarla a su docente cuando se vuelva a la fase semipresencial o presencial. 
+19:49:27	 From  Juan Carlos Fernandez Rosas : Como se puede hacer un portafolio con alumnos de zona rural en donde los padres de familia cuentan solamente con un celular básico y sin inrterneet????
+19:49:30	 From  BEATRIZ RODRIGUEZ : podría explicar la retroalimentación en Primer grado de primaria
+19:49:33	 From  Luis Alberto Meza Illanez : Interesante, tenemos que plasmarlo en la realidad . . . (clase presencial). Favor de compartir su trabajo (PPT)
+19:49:38	 From  Mercedes Matos : Deseo contar con información y audios sobre esta reunión para socializar. Gracias
+19:49:39	 From  CARMEN ZARITA MIRAVAL PEÑA : PIODRÍAN ENVIAR POR FAVOR EL PPT  A NUESTROS CORREOS.GRACIAS
+19:49:40	 From  Esmila Pacheco Romero : cual es el instrumento mas pertinente para evaluar a los niños del nivel inicial ?
+19:49:48	 From  María Del Rosario Ruiz Paredes : LOS PADRES
+19:49:50	 From  Rosa Montiel flores : Gracias por compartir su experiencia sobre este punto, 
+19:50:00	 From  Christian Zuazo Hernandez : Excelente el portafolio de whatsapp, mi pregunta ¿Cómo establecer los criterios para evaluar el portafolio?
+19:50:02	 From  Monica Nella Sánchez Rodríguez : Muy interesante, la importancia de retroalimentar pero solo tienen esa oportunidad los que tienen conectividad
+19:50:06	 From  ELIANA LLIUYA RUIZ : Los maestros conocemos la realidad de nuestros estudiantes, deben partir por ello, y los  en casa cuentan alasjustas con un celular y encima lo comparten con sus hermanos 
+19:50:09	 From  Catalina Bacilio Jimenez : cómo  realizo la retroalimentación en la zona rular?
+19:50:14	 From  Dora Acuña Raza : Que datos, que información se debe considerar en un instrumento para retroalimentar y registra los aprendizajes y dificultades de los niños.
+19:50:30	 From  ALBERTO CCENCHO JURADO : Interesante
+19:50:38	 From  WILLIAMS GIOVANNI MORENO LOMOTE : ES NECESARIO VALOR Y RETROALIMENTAR LAS EVIDENCIAS DIARIAMENTE TENIENDO EN CUENTA QUE APRENDO EN CASA TIENE SESIONES DIARIAS.
+19:50:42	 From  elizabeth guerreros : En la disertación se habló de cómo evaluamos. Se dijo que se evalúa competencia y se elige una capacidad. La pregunta es ¿Si la definición de competencia es la combinación de capacidades, como vamos a elegir una sola capacidad para evaluar, al elegir una sola capacidad no estaríamos evaluando competencias? Por favor que me aclare esa duda.
+19:50:47	 From  Luzmila Ticona : tengo 150 estudiantes y solo hago uso del whasapp como los retroalimento
+19:50:56	 From  lupe sarasi : se escucha con dificultad 
+19:50:59	 From  BEATRIZ RODRIGUEZ : Cómo debe ser el portafolio docente.
+19:51:07	 From  MARITZA TORRES VELA : como realizo la retroalimentación con los alumnos especiales
+19:51:37	 From  DELIA CCORA RAMOS : Por favor la grabación del certamen y su ppt para la réplica con los docentes de mi institución.Gracias 
+19:51:52	 From  SHEYLA VILLANUEVA : Felicitaciones, compartir sus experiencias, compartan el material en Pdf. 
+19:51:59	 From  Esther Mizare Cabezas : Como realizar la retroalimentación en niños de primer grado
+19:52:01	 From  Deisy Longa Vargas : Cómo retroalimentar con estudiantes del nivel de primaria si en la familia con varios hermanos que estudiantes en el nivel de secundaria, inicial y universidad que comparten un solo celular en la familia.
+19:52:10	 From  Alifoncio Rojas Córdova : Sobre la Retroalimentación como se realizará en los CETPRO
+19:52:12	 From  PEDRO FIGUEROA : LAS DIAPOSITIVAS DE HOY NOS PUEDEN ALCANZAR EN EL GRUPO  PARA LEERLO 
+19:52:19	 From  Luis Alberto Meza Illanez : De Luis Alberto Meza ILLANEZ  : Interesante, tenemos que plasmarlo en la realidad . . . (clase presencial). Favor de compartir su trabajo (PPT)
+19:52:23	 From  Gandhy Del Rocio Suarez Paucar : Por favor, agradecería mucho enviar el PPT al grupo whatsapp. 
+19:53:10	 From  JOHANNA PALACIOS YNCA : podria el ppt por el chat 
+19:53:14	 From  EDY SOLDEVILLA CUBA : ¿Cómo realizo la evaluación del portafolio si tengo mas de 250 estudiantes? ¿Lo realizo de forma individual o colectiva?
+19:53:25	 From  Luzmila Ticona : soy docente  de secundaria tengo150 estudiantes  y solo usamos el whasapp como hago la retroalimentación 
+19:53:25	 From  Nelly Lazarte : cual es la diferencia entre evidencia y producto...gracias por las respuesta
+19:53:55	 From  María Del Rosario Ruiz Paredes : Los padres están trabajando y no pueden atender en un horario a sus niños deben los niños esperar a sus padres por el celular ……...son pocos los padres responsables …..
+19:53:56	 From  ALBERTO CCENCHO JURADO : Diferencia entre evidencia y producto, muy buena
+19:53:58	 From  ELIANA LLIUYA RUIZ : Primero mire la realidad partan de un diagnostico, eso es científico. Por favor
+19:53:59	 From  Yuly Oyanguren : En el portafolio docente también se genera una reflexión escrita de la propia práctica docente.. Qué me funciónó, qué me faltó, qué dificultades tuve, cómo las superé.
+19:54:01	 From  Norma Pumacahua Huamaní : En regiones como Huancavelica, la mayoría de los PP.FF están ocupados en otras actividades por diversos factores y las estudiantes trabajan las sesiones solas en casa si es que trabajan. ¿cómo hacer que las estudiantes no hagan mal uso del celular?. . ya que algunos padres aducen que sus hijas están pegadas al celular casi 20 horas, pero se comprobó que no mandan ninguna evidencia 
+19:54:15	 From  SILVIA MEZA : Cómo hacer una buena retroalimentacion en inicial?
+19:54:42	 From  Lucy Velarde : Mis estudiantes tienen un cuadernito para anotar y enviarme por whatsapp su comentario de la .clase observada. Su comentario debe resppnder a las preguntas: ¿Te gustó?¿qué no te gustó?¿por qué?¿cómo te hubiera gustado que se presente? Al principio sus respuestas eran si o no Ahora ya responden a los por qué e incluyen un dibujo y otras indagaciones que han buscado . Mi pregunta es:¿Qué me faltaría agregar ahí?Es tercer grado de Primaria.
+19:54:45	 From  patricia Marchán Ruiz  to  Maricarmen Portocarrero Lopez(Privately) : Qué instrumento sería recomendable para registrar logros, dificultades y la retroalimentacion realizada , en inicial
+19:54:51	 From  Alifoncio Rojas Córdova : Alifoncio Rojas Córdova,  que carpetas pueden utilizar el portafolio del docente en los CETPRO.
+19:54:54	 From  Catalina paredes Gonzales : EN EL AREA DE EDUCACION FISICA, SI LO HAY.
+19:55:38	 From  Efraín Jorge Mejia Fernandez : cómo retroalimentar en zona rural dónde el acceso a cobertura de teléfono es muy restringida y los estudiantes no tienen acceso a internet
+19:55:40	 From  EDY SOLDEVILLA CUBA : La tutora también tiene aulas a su cargo, como se hace en esos casos
+19:55:51	 From  EDITH PAJAR HUAMANYAURI : COMO HACER LA RETROALIMENTACION EN UNA ZONA RURAL
+19:56:04	 From  Yuly Oyanguren : A partir de la intervención de dicha estudiantes, el docente puede generar la reflexión de su propia práctica.. 
+19:56:08	 From  María Del Rosario Ruiz Paredes : La realidad es diferente ¿queeeeeeeeeeeeeeee
+19:56:33	 From  Luzmila Ticona : es decir solo se retroalimenta al estudiante  que tienen dificultades
+19:56:43	 From  CELIA OBRRGONOBREGON : buenas noches soy tutora pero tambien tengo 200 estudiantes  de mi área 
+19:56:59	 From  ALBERTO CCENCHO JURADO : Los estudiantes tienen sus cuadernos donde resuelven sus trabajos sirven como portafolio
+19:57:05	 From  Leine Rosalía Condo Castelo : Muchas gracias,por el apoyo profesora.Disculpe que quiera expresarme así.Asi como una propiedad de la redacción es la Coherencia,es necesario decir para que está experiencia que pasamos sea bonita,es tomar como ejm.una vida de docente donde siquiera una vez al año el docente cocine a carbón.Siquiera eso.Diria algo más pero mi celular está agotada.Alado a esto una pregunta;Creo que se podría crear una evalua...
+19:57:05	 From  Alifoncio Rojas Córdova : Alifoncio Rojas Cordova, la retroalimentación que viene a significar en el CETPRO
+19:57:09	 From  JULIA LIZARZABURO ELGUERA : GRACIASSS
+19:57:12	 From  Sonia Doris Pillaca Uchupe : Muchas gracias, me parece importante que dentro del portafolio tiene que ser agrupados por competencias. 
+19:57:25	 From  lupe sarasi : graciasss por la presentacion
+19:57:41	 From  Monica Nella Sánchez Rodríguez : Muchas gracias, es bueno tener este tipo de material para poder compartir
+19:57:52	 From  Marleny Aliaga Leiva : En el área de Educación Fisica las evidencias son practicas. cómo debe el estudiante armar  su  portafolio
+19:57:53	 From  Luzmila Ticona : puedes enviar el enlace del facebook
+19:58:06	 From  Christian Zuazo Hernandez : ¿Existe la retroalimentación negativa?
+19:58:11	 From  María Del Rosario Ruiz Paredes : como Maestra estoy en
+19:58:15	 From  SILVIA MEZA : es buena la estrategia de presentar 3 trabajos del que lo hizo bien, del que casi lo logro y del que no logro alcanzar 
+19:58:52	 From  Rufino Gomez Mejia : como retroalimentar a un estudiante que no envía sus evidencias de aprendizajes.
+19:58:53	 From  Dr. Spencer Bendezu : Gracias Aclare algunos puntos sobre las rubricas
+19:58:57	 From  Graciela Flores : Podria enviar El material es muy didactico 
+19:58:57	 From  CAMILA RUTH CONTRERAS HERRERA : muchas gracias
+19:59:08	 From  Gandhy Del Rocio Suarez Paucar : ¿Qué tipo de retroalimentacion es la más pertinente en la educación remota? Un ejemplo por favor 
+19:59:24	 From  Graciela Flores : muchas gracias 
+19:59:36	 From  LUIS GONZALES CAMPOS : Buenas Noches, Cómo manejar los criterios de evaluación, algunas precisiones. Gracias
+20:00:00	 From  Marleni Morales Contreras : Muy interesante.Gracias
+20:00:16	 From  Cesar Palacios Pariamachi : excelente precicion 
+20:00:34	 From  Jaime Celestino Revolledo venturo : BUENAS NOCHES MAESTRA COMO SE UBICA EN EL FACEBOOK PARA PODER VISUALIZAR SOBRE LOS TEMAS QUE USTED ESTA EXPONIENDO GRACIAS
+20:00:41	 From  Catalina paredes Gonzales : ELEMENTAL O POCO DERREPENTE.
+20:00:51	 From  Olidia Alvarado : existen tipos de retroalimentacion
+20:00:51	 From  Leine Rosalía Condo Castelo : No  pude terminar la pregunta:Cree que la evaluación es lo último de lo que esperamos este tipo de eval.Llegara a nacer otro tipo de evaluación?
+20:01:16	 From  Ana Orduña : Ana orduña  : Gracias  youtubehttps://www.youtube.com/channel/UCC_vO9fLha-IohR16IafwTg 
+20:01:40	 From  Carolina Salazar Alvarado : Por favor apaguen sus micrófonos.
+20:01:56	 From  Hilario paniura huayhua : la retroalimentación solo debe ser cognitivo o también emocional
+20:02:04	 From  HILDA RAMÍREZ BEJARANO : CUANTOS TIPOS DE RETROALIMENTACIÓN EXISTEN
+20:02:41	 From  Catalina paredes Gonzales : REFORZADORES POSITIVOS.
+20:03:10	 From  NEYDA GOMERO : En las rùbricas de desempeño docente sì considera la  retroalimentación negativa, también la elemental, la descriptiva y por último la reflexiva  o por descubrimiento.Y esta ``ultima es la que debemos enfatizar con los estudiantes.  Pero en este contexto tan complicado  se torna complicado y todo un desafío.
+20:03:10	 From  MARIA CRUZ LUYO : ¿como se elaboran los criterios de evaluación? ¿Puede dar ejemplos?
+20:03:18	 From  Cesar Palacios Pariamachi : que hable sobre rúbricas holística 
+20:03:23	 From  MELBA ASCATE : QUE PODEMOS EMPLEAR PARA ESTABLECER CRITERIOS, LAS CAPACIDADES O LOS DESEMPEÑOS
+20:03:37	 From  Antero Eloy ARÉVALO LAMAS : ¿Siendo la educación y el aprendizaje la formación de la persona humana en su integridad, no se incurre en despersonalización al evaluar sólo la evidencia o producto de aprendizaje del estudiante?
+20:03:42	 From  Cesar Palacios Pariamachi : rúbricas analíticas 
+20:03:56	 From  Carolina Salazar Alvarado : Por favor ojalá puedan enviar a este grupo el ppt Gracias.
+20:04:48	 From  Patricia Martinez Espinoza : buenas noches maestra interesante!!
+20:04:56	 From  Eve Pere : Como la evidencia podría representar los procesos internos, hasta que punto son confiables?
+20:05:07	 From  Galaxy J2 Core : Gracias. Estaba intrtesante. Por favor, si nos podrían facilitar los ppt. Gracias
+20:05:10	 From  Vanessa Esquía Perez : Muchas, gracias miss por su información. 
+20:05:19	 From  Divany del Rosario Zeta paker : y en inicial como se puede dar la retroalimentación en este contexto
+20:05:22	 From  Luzmila Ticona : cual es la pg del facebook
+20:05:25	 From  PUBLIA QUISPE GUERRA : Buenas noches colegas,
+20:05:34	 From  LUZ SALAZAR : Buenas noches, por favor compartir los PPT en el chat para poder descargarlo. Gracias.
+20:05:41	 From  Maricarmen Portocarrero Lopez : https://www.facebook.com/vivavivevalores/videos/356400351992343
+20:06:15	 From  PUBLIA QUISPE GUERRA : Como hacer una retroalimentación en lugares sin conectividad 
+20:07:10	 From  Cesar Palacios Pariamachi : mande mensaje escrito con caballos
+20:07:40	 From  PEDRO VIDAL : En la educación remota los familiares son los que desarrollan las actividades. Además ellos son los que envían las evidencias. Qué hacer en este caso
+20:08:04	 From  Elsa Guevara : Kaizena es útil para retroalimentar?
+20:08:07	 From  ALBERTO CCENCHO JURADO : Buenas noches, le suplicaríamos enviarnos el PPT
+20:08:30	 From  Mariana Zarate : Grupo de Facebook de la Comunidad VIVA: https://www.facebook.com/groups/937898986639617
+20:08:41	 From  Monica Nella Sánchez Rodríguez : Claro entiendo que  estamos en la evaluación para el aprendizaje
+20:08:45	 From  Yuly Oyanguren : Sii. En Aprendo en casa ..  están esas herramientas.
+20:09:02	 From  Yuly Oyanguren : son muy buenas
+20:09:04	 From  DALILA CARLOS BELITO : Muchas gracias, estuvo muy interesante por favor compartir  PPT. 
+20:09:14	 From  Yuly Oyanguren : Gracias!! Muy buena ponencia
+20:09:23	 From  tarcila judith tucto albornoz : gracias por los aportes
+20:09:27	 From  Tulio Guevara : muchas gracias
+20:09:29	 From  Rosanna Garcia de Ramirez : gracias
+20:09:31	 From  PUBLIA QUISPE GUERRA : Gracias ,
+20:09:37	 From  Carmen Nilda Gomez Ramos : muchas gracias , muy interesante
+20:09:38	 From  lupe sarasi : Gracias ...compartir el ppt
+20:09:38	 From  LUZ ALBORNOZ HILARIO : Buenas noches ,por favor compartan información al correo 
+20:09:39	 From  Cesar Palacios Pariamachi : gracias buena experticia 
+20:09:39	 From  Angela CHAMORRO : Gracias. 
+20:09:40	 From  Maria del Pilar Pedraza Tipacti de Zavala : Gracias muy interesante 
+20:09:41	 From  Rosa Montiel flores : Muchas gracias
+20:09:42	 From  Cesar Pulido Cornelio : Por favor envíanos el PPT
+20:09:42	 From  Marcos Huayllani Quispe : ¿Por que dejan de lado a las zonas rurales?
+20:09:43	 From  Wenceslao Pillaca : Gracias Mercedes excelente la exposición
+20:09:47	 From  Flor Amasifuen : No escucho 
+20:09:49	 From  Maria del Pilar Pedraza Tipacti de Zavala : Gracias Mercedes 
+20:09:49	 From  Christian Zuazo Hernandez : que bueno aprendi sobre el portafolio digital
+20:09:50	 From  Farina Infantes : Muchas gracias 
+20:09:50	 From  Rosa Mónica Alor Canales : muchas gracias por exposición
+20:09:52	 From  ELSA MARIA CHACIN BRUZZO : GRACIAS PROFESORAS EXCELENTE TRABAJO
+20:09:52	 From  ALINDA BARAHONA : MUY INTERESANTE. GRACIAS POR COMPARTIR SUS SABERES.
+20:09:56	 From  vilma nieva navarro : muchas gracias maestra
+20:09:59	 From  Rigoberto Juan SALAZAR MAMANI : Gracias
+20:09:59	 From  Norma Pumacahua Huamaní : Gracias maestra Mercedes interesante el tema
+20:10:00	 From  Cesar Pulido Cornelio : Saludos desde Huánuco
+20:10:00	 From  Monica Nella Sánchez Rodríguez : Muy buen soporte para nuestro trabajo ¡ Muchas gracias!
+20:10:06	 From  MARIA ELENA TENORIO YANAC : Muchas gracias
+20:10:11	 From  karla lucena : Me encanto, gracias Mercedes
+20:10:13	 From  julio cabana : compartir ppt, por favor
+20:10:14	 From  Susan Ruiz : Gracias milll 
+20:10:14	 From  Rosa Montiel flores : Por favor compartir  la informacion
+20:10:20	 From  EDDA : GRACIAS BUENA PONENCIA 
+20:10:22	 From  Nidia Ortiz : programen otra fecha más por favor.
+20:10:25	 From  Evelyn Barr : MUCHAS GRACIAS POR LOS CONOCIMIENTOS COMPARTIDOS!!! 
+20:10:25	 From  Susan Ruiz : muy buen aportee gracias
+20:10:26	 From  ALBERTO CCENCHO JURADO : MUCHAS GRACIAS A SIDO MUY IMPORTANTE
+20:10:27	 From  MARCELINA MARTHA ILLANES BITRON : gracias por la capacitación.
+20:10:28	 From  Marciano suarez : gracias
+20:10:28	 From  M. Antonieta Borja Alcalde : Gracias por su aporte
+20:10:30	 From  Magaly Guerra Pimentel : Muchas gracias por los aportes para nuestro trabajo.
+20:10:32	 From  LOURDES CÉSPEDES GALLO : Gracias por todo, muy interesante ponencia.
+20:10:35	 From  Maria del Pilar Pedraza Tipacti de Zavala : Evaluación descriptiva se evaluará en sistema Siagie
+20:10:35	 From  Robert Arriaga : Muy buena gracias 
+20:10:36	 From  Elvira Garcia Mendoza : Muchas gracias, compartan la información
+20:10:36	 From  karla lucena : Muchas gracias
+20:10:39	 From  nancy marlene morales luna : Muchas gracias por su conferencias muy interesante. Que Dios la bendiga en la misión de Maestra.
+20:10:40	 From  GLADIS TORRES OLIVARES : Gracias, buen aporte para educadores. Envíen PPT por favor
+20:10:40	 From  BEATRIZ RODRIGUEZ : Gracias  Por compartir sus
+ conocimientos
+20:10:41	 From  HUAWEI P smart 2019 : Gracias 
+20:10:43	 From  Sandra Paola Magallanes Napa : CETPRO COPRODELI NSTRA SRA. DEL ROSARIO-CALLAO agradece este apoyo al Maestro. Directora Sandra M.N.
+20:10:46	 From  Gwen Chávez : gracias por Todo, 
+20:10:50	 From  Juan Orellano : Mil gracias desde Ancash, Aija. Abrazos. 
+20:11:01	 From  Mariana Zarate : Grupo de Facebook de la Comunidad VIVA: https://www.facebook.com/groups/937898986639617
+20:11:04	 From  Gandhy Del Rocio Suarez Paucar : Por favor, próximo tema sería sobre el aprendizaje autónomo 
+20:11:09	 From  vilma romero arce : gracias por brindar su apoyo
+20:11:19	 From  Mariana Zarate : Grupo de Facebook de la Comunidad VIVA: https://www.facebook.com/groups/937898986639617
+20:11:26	 From  Mariana Zarate : Grupo de Facebook de la Comunidad VIVA: https://www.facebook.com/groups/937898986639617
+20:11:28	 From  Amalia Sandra Cahuas Leon : Gracias, muy interesante.Sobre todo el tema del portafolio
+20:11:29	 From  Yanet Corrales : no tengo audio para escuchar
+20:11:31	 From  Santa Ortiz Rojas : gracias
+20:11:48	 From  Sonia Doris Pillaca Uchupe : Muchas gracias quiero más
+20:11:49	 From  Sue Koochoi Requejo : muchas gracias
+20:11:59	 From  Santa Ortiz Rojas : puedo compartir  con otros colegas el Link
+20:12:03	 From  Indira Flores : gracias
+20:12:04	 From  Rosa Romero : Muchas gracias
+20:12:07	 From  SONIA HERNÁNDEZ VELARDE : MUCHAS GRACIAS, EXCELENTE TEMA 
+20:12:09	 From  JUDITH INES DE LA CRUZ YATACO : Muchas gracias por los aportes vertidos en su exposición maestra Mercedes y a VIVA por promover este tipo de eventos. 
+20:12:17	 From  ELIZABETH CARHUANCHO ALDECOA : ELIZABETH CARHUANCHO ALDECOA MUCHAS GRACIAS
+20:12:19	 From  NORMA CLAUDIO CARLOS : gracias por el apoyo que nos brinda y compartir sus experiencias 
+20:12:23	 From  ERICK DAVID SORIA : Muchas gracias por la oportunidad un abrazo desde la Ciudad de Huánuco UGEL Pachitea
+20:12:26	 From  Indira Flores : gracias
+20:12:42	 From  Juana Rosa Judith Manrique Torres : no me ha aparecido la encuesta
+20:12:43	 From  Indira Flores : gracias
+20:12:44	 From  Cristina Churruca Tineo : Gracias
+20:12:44	 From  FLOR PEREIRA SILVERA : gracias
+20:12:46	 From  HERLINDA CHAVEZ ORTEGA : MUCHAS GRACIAS
+20:12:48	 From  Macedonia Quispe Mariño : Muchas gracias por los alcances.
+20:12:58	 From  Laura Cano : Graciasss..
+20:13:01	 From  lilian belupu : GRACIAS
+20:13:02	 From  Sonia Cudeña : Gracias. estuvo interesante
+20:13:02	 From  CELIA OBRRGONOBREGON : gracias
+20:13:02	 From  mercedes perez agorto : muchas gracias
+20:13:03	 From  María Elizabeth Ruiz Sarmiento Vda. de García : Bendiciones gracias.
+20:13:06	 From  Carmen Lope : Muchas gracias por todo. 
+20:13:11	 From  OBANDO RODAS ICHACCAYA : GRACIAS
+20:13:12	 From  DAISY YANETH AMEZ ROJAS : GRACIAS Y BUENAS NOCHES
+20:13:12	 From  EDITH PAJAR HUAMANYAURI : MUCHAS GRACIAS
+20:13:12	 From  Wenceslao Pillaca : buenas noches a todos
+20:13:13	 From  CYNTHIA AMELIA MESTANZA HUAMÁN : BUENAS NOCHES. ESTUVO MUY INTERESANTE LA CAPACITACION.
+20:13:14	 From  María Teresa Pecho Rafael : Muchas gracias. 
+20:13:15	 From  MARIA ELENA TENORIO YANAC : MUCHAS GRACIAS
+20:13:16	 From  Sonia Lifonzo Munive : gracias por el aporte muy valioso
+20:13:18	 From  Alejandrina Villa Riveros : GRACIAS POR SU APORTE+
+20:13:18	 From  Juan Retamozo : muchas gracias
+20:13:19	 From  SONIA HILARIO PARI : BUENAS NOCHES Y MUCHAS GRACIAS.
+20:13:20	 From  Bertha Paula De La Cruz Cruz : Muchas gracias por lo brindado el día de hoy.
+20:13:20	 From  Esther Mizare Cabezas : gracias muy interesante
+20:13:22	 From  Gladys Vasquez : gracias 
+20:13:23	 From  Julia Cuevas Terrazas : Muchas gracias 
+20:13:25	 From  CARMEN CRUZ : ME ENCANTO , MUCHAS GRACIAS.
+20:13:26	 From  CATALINA RABANAL RONCAL : graxcias
+20:13:26	 From  CARMEN ZARITA MIRAVAL PEÑA : GRACIAS
+20:13:26	 From  Daniel Moscoso : Gracias 
+20:13:28	 From  Liliana : Gracias 👍
+20:13:29	 From  Monica Nella Sánchez Rodríguez : Buenas noches
+20:13:30	 From  CYNTHIA AMELIA MESTANZA HUAMÁN : MUCHAS GRACIAS
+20:13:31	 From  PUBLIA QUISPE GUERRA : gracias 
+20:13:32	 From  seny kalina Rivera Espinoza : GRACIAS POR TODO
+20:13:33	 From  Mary Bayona Coral : DE Mary BAYONA  muchas gracias
+20:13:34	 From  Silvia Beatriz Castilla Llacctas : Gracias por los aportes recibidos. 
+20:13:34	 From  NEYDA GOMERO : Gracias   a todos. Un abrazooo
+20:13:36	 From  Santiago Ortiz Meléndez : Muchas gracias 
+20:13:36	 From  CARMEN CARRION ALVA : Muchas gracias
+20:13:37	 From  Julia Gavina Obregón Huaytaya : gracias buenas noches
+20:13:38	 From  Luz Hiuaynasi : Gracias...
+20:13:39	 From  yvonne chahu : gracias buenas noches
+20:13:40	 From  Luz Coz : Muchas gracias 
+20:13:41	 From  Ruth Carrasco : gracias👍
+20:13:42	 From  Judith Ninahuanca : gracias 
+20:13:44	 From  JENNY CONTRERAS DEL CASTILLO : GRACIAS
+20:13:46	 From  Dina Vigo : Gracias a todo el equipl
+20:13:46	 From  Patricia Rios Moreno : Muchas gracias 
+20:13:50	 From  Milagro Huamán : Gracias estuvo interesante quisiera unirme
+20:13:53	 From  EDY SOLDEVILLA CUBA : gracias
+20:13:53	 From  Nancy De la cruz huamani : Muchas gracias 
+20:13:53	 From  Saul Brent Llana Córdova Saúl Brent : Muchas gracias 
+20:13:53	 From  Ana Alvarez : gracias
+20:13:53	 From  Katy Jimenez Horna : GRACIAS
+20:13:55	 From  Mercedes Quispe Bendezu : Muchas gracias
+20:13:55	 From  Lucy Velarde : Lucy Velarde de: FIR  Bellavista Callao ..Muy agradecida.
+20:13:57	 From  ROGER ANTAYHUA : Gracias
+20:13:58	 From  Angel Huaripaucar Tueros : Muchas gracias
+20:13:58	 From  Rosa Caro : Bendiciones muchas gracias 
+20:13:58	 From  FLOR LAZARO ESPINOZA : gracias buena ponencia
+20:14:00	 From  REINULFO MUÑOZ BARBOZA : GRACIAS
+20:14:04	 From  Maura Huamani : gracias y buenas noches
+20:14:04	 From  Mariana Zarate : Grupo de Facebook de la Comunidad VIVA: https://www.facebook.com/groups/937898986639617
+20:14:04	 From  Elena Olaya Quijaite : Gracias a todos, buenas noches y ha estado muy interesante.
+20:14:04	 From  samuel Moya Gonzales  to  Maricarmen Portocarrero Lopez(Privately) : gracias
+20:14:04	 From  IRIS GAVILANO : Gracias. Desde Nasca.
+20:14:07	 From  Mariana Zarate : Grupo de Facebook de la Comunidad VIVA: https://www.facebook.com/groups/937898986639617
+20:14:07	 From  Jaime Alfonzo Ramirez Rojas : gracias por la charla ha  sido productivo.
+20:14:08	 From  Galaxy J2 Core : Gracias, estuvo muy ibteresante
+20:14:09	 From  Mathbibela Tucto : Muy interesante el tema 
+20:14:09	 From  Azucena Rodriguez : gracias
+20:14:11	 From  Mercedes Matos : Muchas gracias. por su interés en mejorar nuestro trabajo. 
+20:14:16	 From  Mariana Zarate : Gracias a todos!
+20:14:16	 From  Ana Fernandez Dulanto : muchas gracias
+20:14:18	 From  BLANCA ESTELA MADGE MEDINA : GRACIAS, GRACIAS, GRACIAS. Muy interesante! Bendiciones.Todos los éxitos.
+20:14:19	 From  Mariana Zarate : Grupo de Facebook de la Comunidad VIVA: https://www.facebook.com/groups/937898986639617
+20:14:21	 From  ;María Álvarez Cortijo : BUENAS NOCHES NO TENO CAMARA NI MICROFONO EN MI LAPTOTOP SOY DOCENTE EDUCACION INICIAL MARIA MARGAARITA ALVAREZ CORTIJO COMO REGISTRO MI ASISTENCIA
+20:14:22	 From  ELSA CASTRO CHAUCA : el ppt por favor
+20:14:23	 From  Mariana Zarate : Gracias a todos!
+20:14:24	 From  Gladys Moreno : Gracias. Hasta la próxima. Buenas noches
+20:14:24	 From  Tania Nuñez : Gracias. Muy interesante.
+20:14:25	 From  Abel Zea Bendezú : GRACIAS
+20:14:26	 From  Enelita del Carmen Sifuentes Aliaga : Gracias excelente los aportes, 
+20:14:26	 From  Mariana Zarate : Grupo de Facebook de la Comunidad VIVA: https://www.facebook.com/groups/937898986639617
+20:14:28	 From  Gerardo Guillermo Vizcarra Huiza : Muchas gracias.
+20:14:28	 From  Nestor mike Huayllani laurente : una ponencia dando las estrategias para los que no tiene acceso a los diferentes medios, hablemos de los otros ecenarios. solo se habla de lo mismo.
+20:14:29	 From  ROSANNA VILCA MARTINEZ : muchas gracias muy interesante
+20:14:30	 From  Abel Zea Bendezú : SALUDOS A TODOS
+20:14:31	 From  Mariana Zarate : Gracias a todos!
+20:14:32	 From  HOROCIA MOZOMBITE VALDIVIEZO : Gracias Excelente.
+20:14:34	 From  GIOVANNA YOLANDA GOMEZ ARAUJO : 5048 MRCM. gracias
+20:14:35	 From  Silvia Apolonio : Gracias🤗
+20:14:37	 From  Mariana Zarate : Grupo de Facebook de la Comunidad VIVA: https://www.facebook.com/groups/937898986639617
+20:14:40	 From  samuel Moya Gonzales  to  Maricarmen Portocarrero Lopez(Privately) : interesante informacion gracias
+20:14:40	 From  Mariana Zarate : Gracias a todos!
+20:14:41	 From  MARIA ELENA TICONA PACHECO : Muchas gracias, seguiremos avanzando.
+20:14:42	 From  Dora Acuña Raza : gracias por su orientacion
+20:14:43	 From  Mary Chapa : Muchas gracias
+20:14:45	 From  MARÍA SANCHEZ : Los criterios de evaluación de dónde salen.
+20:14:46	 From  Miriam Josefa Ramos Acosta : Grracia
+20:14:47	 From  Feliciana Pulido Pimentel : Abrazos para todos.
+20:14:49	 From  Mariana Zarate : gracias a todos!
+20:14:50	 From  Rosario Moya Arias : Gracias  bien los aportes
+20:14:50	 From  juliana elena quispe contreras : saludos a todos
+20:14:50	 From  yobana gayoso urbina : colegas tengan cuidado se escucha sus conversaciones familiares
+20:14:51	 From  SOLEDAD SOLIS FARFAN : Muchas gracias.
+20:14:55	 From  Ana Fernandez Dulanto : El ppt por favor
+20:14:55	 From  ELIZABET NAVARRO MUNARRIZ : Muchas gracias muy interesante
+20:14:57	 From  Mariana Zarate : Grupo de Facebook de la Comunidad VIVA: https://www.facebook.com/groups/937898986639617
+20:14:59	 From  Roberth Benites Polo : muchas gracias
+20:15:04	 From  Luzmila Ortiz : Muchas gracias por sus orientaciones.
+20:15:06	 From  NOEMI TAMARA CASTILLO : Muy interesante muchas gracias.
+20:15:06	 From  Mathbibela Tucto : Las copias de la evaluacion formativa y portafolio escolar
+20:15:07	 From  Yaneth Coloma : Gracias Viva Valores
+20:15:07	 From  Edith ordoñez : Muchas gracias Bendiciones
+20:15:09	 From  Mariana Zarate : Grupo de Facebook de la Comunidad VIVA: https://www.facebook.com/groups/937898986639617
+20:15:12	 From  Mariana Zarate : Gracias a todos!
+20:15:14	 From  Sonia Cudeña : compartir el cuestionario por favor
+20:15:18	 From  Emilia Cerron Cárdenas : Muchas gracias muy interesante
+20:15:22	 From  Judith Cotrina Villena  to  Maricarmen Portocarrero Lopez(Privately) : gracias por su valioso tiempo. Faltó contestar interrogantes de nuestra zona rural
+20:15:24	 From  Sofía Magdalena Condori  to  Maricarmen Portocarrero Lopez(Privately) : gracias
+20:15:26	 From  Maria del Pilar Pedraza Tipacti de Zavala : Muchas Mercedes Inicial 89 Nuestra Señora del Carmen Directora Docente María del Pilar Pedraza Tipacti de Zavala excelente 
+20:15:28	 From  Rosa Violeta Rojas Moreno : gracias por su exelente exposición 
+20:15:33	 From  Nestor mike Huayllani laurente : una ponencia dando las estrategias para los que no tiene acceso a los diferentes medios, hablemos de los otros ecenarios. solo se habla de lo mismo. 
+20:15:36	 From  Sofía Magdalena Condori : gracias
+20:15:43	 From  ELSA MARIA CHACIN BRUZZO : ELSA CHACIN (FARNCISCO IZQUEIRDO RIOS)callao bellavista
+20:15:44	 From  ASTRID YOVELIN PARI MANTARI : MUCHAS GRACIAS POR LA PONENCIA!!!
+20:15:52	 From  Damilú Chávez Vilcarromero : Gracia Marianita y a todo el equipo viva 
+20:15:53	 From  Jjenny Alfaro Cancho : gracias
+20:16:00	 From  Albina Tarazona campos : Gracias
+20:16:04	 From  Norma Salazar León : Muchas gracias por la onencia, bendiciones para cada uno de ustedes. Buenas noches.
+20:16:04	 From  Yenny Vega : ¡Gracias!
+20:16:06	 From  Lilian Julia Pajar Huamanyauri : Buenas noches muchas gracias por el aporte que nos brindo
+20:16:18	 From  Yovana Zavaleta Loloy : gracias, hasta pronto
