@@ -7,3 +7,4 @@
   - Appreciations: `apreciaciones`
   - Reflections: `reflexiones`
   - Questions: `consultas`
+- `VIVA Webinars - EDA.pdf` contains a pdf report of the Exploratory Data Analysis of the participants information generated with Power BI
